@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-05 · [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
 - 2026-11 · [ChatGPT 代充怎么选？靠谱代充平台的 8 个判断标准 + 防骗指南](choose-daichong-platform.md)
 - 2026-11 · [ChatGPT 提示 Your card was declined 怎么办？](card-declined-fix.md)
 
@@ -23,7 +24,7 @@
 - 整理中
 
 ### ✅ 开通后
-- 整理中
+- [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
 
 ### 🛠️ 自己付款遇到问题
 - [ChatGPT 提示 Your card was declined 怎么办？](card-declined-fix.md)
