@@ -27,7 +27,7 @@ description: ChatGPT Plus 充值怎么选？本文对照 Plus 权益与适合人
 
 ## 1. 为什么这几天又在聊 Plus 充值
 
-2026 年 11 月初，多家媒体与用户邮件反馈：OpenAI 正推进把 ChatGPT 里的 Chat 与 Work 体验合并；随合并推进，从约 **2026 年 12 月**起，Plus、Pro、Business 等套餐的用量额度将在 **ChatGPT 与 Codex 之间共享**（即时模型对话不计入该共享额度）。TechCrunch 在 11 月 2 日报道了这一变化，并指出多数用户影响有限，但高频同时用对话和 Codex 的人，可能更早碰到重置等待（来源：[TechCrunch：OpenAI is finally merging ChatGPT's Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)）。
+2026 年 11 月初，多家媒体与用户邮件反馈：OpenAI 正推进把 ChatGPT 里的 Chat 与 Work 体验合并；随合并推进，从约 **2026 年 12 月**起，Plus、Pro、Business 等套餐的用量额度将在 **ChatGPT 与 Codex 之间共享**（即时模型对话不计入该共享额度）。TechCrunch 在 11 月 2 日报道了这一变化，并指出多数用户影响有限，但高频同时用对话和 Codex 的人，可能更早碰到重置等待（来源：[TechCrunch：OpenAI is finally merging ChatGPT's Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/）；官方说明见 [OpenAI 帮助中心：Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)）。
 
 对打算开通 Plus 月付的人，含义很直接：月付不只是「聊天额度变多」，还要一并考虑 Codex / Work 侧的用量。权益与限额仍以 [OpenAI 帮助中心 · What is ChatGPT Plus](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) 和 [ChatGPT Pricing](https://chatgpt.com/pricing/) 实时页面为准。
 
