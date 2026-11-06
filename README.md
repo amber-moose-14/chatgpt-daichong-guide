@@ -8,9 +8,9 @@
 
 ## 🆕 最近更新
 
+- 2026-11-06 · [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
 - 2026-11-05 · [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
 - 2026-11 · [ChatGPT 代充怎么选？靠谱代充平台的 8 个判断标准 + 防骗指南](choose-daichong-platform.md)
-- 2026-11 · [ChatGPT 提示 Your card was declined 怎么办？](card-declined-fix.md)
 
 ## 📂 教程索引
 
@@ -18,7 +18,7 @@
 - [ChatGPT 代充怎么选？靠谱代充平台的 8 个判断标准 + 防骗指南](choose-daichong-platform.md)
 
 ### 📦 按套餐
-- 整理中
+- [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
 
 ### 💰 按支付方式
 - 整理中
