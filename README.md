@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-08 · [ChatGPT Pro 充值前必读：Pro 100/200/500 额度怎么算、Ultrafast 与 Credits 规则 + 国内开通](chatgpt-pro-chongzhi-edu-guize-2026.md)
 - 2026-11-07 · [ChatGPT 会员怎么选：Go / Plus / Pro 对照 + 国内开通路径](chatgpt-huiyuan-zenme-xuan-2026.md)
 - 2026-11-06 · [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
 - 2026-11-05 · [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
@@ -18,6 +19,7 @@
 - [ChatGPT 代充怎么选？靠谱代充平台的 8 个判断标准 + 防骗指南](choose-daichong-platform.md)
 
 ### 📦 按套餐
+- [ChatGPT Pro 充值前必读：Pro 100/200/500 额度怎么算、Ultrafast 与 Credits 规则 + 国内开通](chatgpt-pro-chongzhi-edu-guize-2026.md)
 - [ChatGPT 会员怎么选：Go / Plus / Pro 对照 + 国内开通路径](chatgpt-huiyuan-zenme-xuan-2026.md)
 - [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
 
