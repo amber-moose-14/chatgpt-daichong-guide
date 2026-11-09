@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-09 · [Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通](codex-daichong-yongliang-kaitong-2026.md)
 - 2026-11-08 · [ChatGPT Pro 充值前必读：Pro 100/200/500 额度怎么算、Ultrafast 与 Credits 规则 + 国内开通](chatgpt-pro-chongzhi-edu-guize-2026.md)
 - 2026-11-07 · [ChatGPT 会员怎么选：Go / Plus / Pro 对照 + 国内开通路径](chatgpt-huiyuan-zenme-xuan-2026.md)
 - 2026-11-06 · [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
@@ -22,6 +23,9 @@
 - [ChatGPT Pro 充值前必读：Pro 100/200/500 额度怎么算、Ultrafast 与 Credits 规则 + 国内开通](chatgpt-pro-chongzhi-edu-guize-2026.md)
 - [ChatGPT 会员怎么选：Go / Plus / Pro 对照 + 国内开通路径](chatgpt-huiyuan-zenme-xuan-2026.md)
 - [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
+
+### 💻 Codex
+- [Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通](codex-daichong-yongliang-kaitong-2026.md)
 
 ### 💰 按支付方式
 - 整理中
