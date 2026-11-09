@@ -34,7 +34,7 @@ description: ChatGPT 会员怎么选？对照 Go、Plus、Pro 适合谁、官方
 
 OpenAI 个人付费档目前公开对照的是 **Go / Plus / Pro**（另有团队向的 Business / Enterprise，本文不展开）。模型名称、上下文、工具额度会随版本调整，**一律以账号内模型选择器和官方套餐页为准**，不要只凭二手截图下单。
 
-若还在挑平台、防骗，先看[《ChatGPT 代充怎么选》](choose-daichong-platform.md)；若已决定 Plus 月付细节，可对照[《ChatGPT Plus 充值怎么选》](chatgpt-plus-chongzhi-yuefu-2026.md)。
+若还在挑平台、防骗，先看[《ChatGPT 代充怎么选》](choose-daichong-platform.md)；若已决定 Plus 月付细节，可对照[《ChatGPT Plus 充值怎么选》](chatgpt-plus-chongzhi-yuefu-2026.md)。要上 Pro 先看[《ChatGPT Pro 充值前必读》](chatgpt-pro-chongzhi-edu-guize-2026.md)；主要用来写代码的看[《Codex 代充前必读》](codex-daichong-yongliang-kaitong-2026.md)。
 
 另外请记住：模型能力、上下文长度、图片与研究额度都会随官方更新变化。本文用「适合谁」做决策框架，具体功能勾选请回到官方套餐页，避免把过期截图当成下单依据。
 

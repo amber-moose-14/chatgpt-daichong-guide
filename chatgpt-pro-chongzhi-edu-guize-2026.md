@@ -138,7 +138,7 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 国内页面上常见「Pro 5X / Pro 20X」「10 倍 / 20 倍 / 50 倍额度」之类的叫法。需要知道：
 
 - **官方档位名称是 Pro 100 / Pro 200 / Pro 500**，帮助中心只写了「Pro 200 用量多于 Pro 100，Pro 500 三档最高」，**没有给出固定的「相对 Plus 多少倍」**。
-- 同一家平台的不同页面也可能写法不一（例如 GPT20X 首页写 10 倍 / 20 倍 / 50 倍，Pro 介绍页的对照表写约 5 倍 / 约 20 倍），这类倍数应理解为**平台的营销参考**，不是官方承诺。
+- 平台页面上的倍数写法也会变（2026-11-09 复核：GPT20X 首页和 Pro 介绍页目前都写 10 倍 / 20 倍 / 50 倍，但 Pro 100 的下单页网址仍叫 ChatGPTPro5x），这类倍数应理解为**平台的营销参考**，不是官方承诺。
 - 下单时认准**官方档位名 + 月费档**（Pro 100 / 200 / 500），开通后在 **Settings → My Plan** 核对档位名称。
 
 ---
@@ -164,7 +164,7 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 5. 保存订单号，可在 [订单查询](https://gpt20x.com/query) 查看进度和凭证。
 6. **开通后核对**：登录**自己的**账号 → Settings → My Plan 看档位名；Settings → Usage 看额度；Pro 500 用户再去 Work / Codex 的模型选择器确认能看到 Ultrafast。
 
-卡密类商品的兑换细节见[《GPT 代充卡密怎么兑换》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)；挑平台、防骗看[《ChatGPT 代充怎么选》](https://amber-moose-14.github.io/chatgpt-daichong-guide/choose-daichong-platform.html)。
+主要冲着 Codex 开 Pro 的，先看[《Codex 代充前必读》](https://amber-moose-14.github.io/chatgpt-daichong-guide/codex-daichong-yongliang-kaitong-2026.html)估一下 Plus 够不够。卡密类商品的兑换细节见[《GPT 代充卡密怎么兑换》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)；挑平台、防骗看[《ChatGPT 代充怎么选》](https://amber-moose-14.github.io/chatgpt-daichong-guide/choose-daichong-platform.html)。
 
 ---
 

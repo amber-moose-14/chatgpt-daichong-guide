@@ -114,7 +114,7 @@ description: ChatGPT Plus 充值怎么选？本文对照 Plus 权益与适合人
 5. 提交后等待处理，**不要用同一卡密反复提交**。
 6. 刷新或重登 ChatGPT，确认 Plus 已生效。
 
-兑换失败排查见[《GPT 代充卡密怎么兑换》](gpt-daichong-kami-duihuan-2026.md)。
+兑换失败排查见[《GPT 代充卡密怎么兑换》](gpt-daichong-kami-duihuan-2026.md)。主要拿 Plus 写代码的，Codex 每 5 小时大概能用多少见[《Codex 代充前必读》](codex-daichong-yongliang-kaitong-2026.md)。
 
 ---
 
