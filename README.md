@@ -8,9 +8,9 @@
 
 ## 🆕 最近更新
 
+- 2026-11-13 · [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
 - 2026-11-12 · [ChatGPT Plus 年付值不值：官方有没有年付、¥1988 一年怎么算、退款升级续费风险 + 适合谁](chatgpt-plus-nianfu-2026.md)
 - 2026-11-11 · [ChatGPT Go 充值前必读：Go 是什么、多少钱、够不够用、和 Plus 差在哪 + 国内开通](chatgpt-go-chongzhi-kaitong-2026.md)
-- 2026-11-10 · [ChatGPT 订阅怎么管：订阅在哪个平台、怎么看状态、取消与防重复扣费 + 国内开通订阅](chatgpt-dingyue-guanli-quxiao-2026.md)
 
 ## 📂 教程索引
 
@@ -28,7 +28,7 @@
 - [Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通](codex-daichong-yongliang-kaitong-2026.md)
 
 ### 💰 按支付方式
-- 整理中
+- [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
 
 ### ✅ 开通后
 - [ChatGPT 订阅怎么管：订阅在哪个平台、怎么看状态、取消与防重复扣费 + 国内开通订阅](chatgpt-dingyue-guanli-quxiao-2026.md)
