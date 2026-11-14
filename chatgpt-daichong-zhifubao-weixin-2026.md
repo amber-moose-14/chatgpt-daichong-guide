@@ -83,26 +83,16 @@ description: chatgpt 代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 开通后**退出 ChatGPT 再重新登录**，到 Settings → Account 看套餐名是否已变成 Plus / Go / Pro。兑换环节的细节见[《GPT 代充卡密怎么兑换？》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)。
 
-> 也支持 USDT（TRC20 / BEP20），按结算页显示的网络和地址转账。
 
 ---
 
-## 5. 各套餐人民币价格、收据和发票
+## 5. 收据、发票和各套餐怎么开通
 
-GPT20X 首页和套餐页当前价格（2026-11-13 核对，以下单页实时显示为准）：
-
-| 套餐 | 人民币价格 | 开通方式 |
-|---|---|---|
-| Go | ¥79 / 30 天 | 自助兑换 |
-| Plus 月付 | ¥168 / 30 天 | 自助兑换，约 2 分钟 |
-| Plus 年付 | ¥1988 / 一年 | 人工开通 |
-| Pro 100 | ¥818 / 30 天 | 客服协助 |
-| Pro 200 | ¥1480 / 30 天 | 客服协助 |
-| Pro 500 | ¥3880 / 30 天 | 客服协助 |
+各套餐的人民币价格以下单页实时显示为准，可在 [GPT20X](https://gpt20x.com/) 打开对应开通页核对。Plus / Go 多为自助兑换，Plus 年付和 Pro 常见为人工开通或客服协助。
 
 **报销收据：** Plus 月付、Pro 100 等套餐页写明「付款后可在订单查询页下载收款凭证」，Plus 年付页写明「提供报销收据」。
 
-**发票：** 首页常见问题写明 Pro 套餐下单时选择发票选项即可。以 [Pro 100 页](https://gpt20x.com/ChatGPTPro5x)为例：选「需要开发票」开增值税普通发票，含 6% 税费，按开票价 **¥867** 支付，不开票为 ¥818。企业批量采购可联系客服对公结算。
+**发票：** 首页常见问题写明 Pro 套餐下单时选择发票选项即可。需要增值税普通发票时，结算金额可能含税费，开票价与不开票价不一样，付款前看清结算页。企业批量采购可联系客服对公结算。
 
 年付和月付怎么选，见[《ChatGPT Plus 年付值不值》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-plus-nianfu-2026.html)。
 
@@ -127,7 +117,7 @@ GPT20X 首页和套餐页当前价格（2026-11-13 核对，以下单页实时�
 
 - **只在平台官网的结账页付款**。客服或陌生人发来的个人收款码、要求「转账到私人账户」的，一律不付；
 - **不给密码、验证码、两步验证恢复码**。GPT20X 首页写明全程无需提供账号密码；
-- **付款前核对金额和套餐名**，Pro 开票价与不开票价不一样，别选错；
+- **付款前核对金额和套餐名**，需要发票时开票价与不开票价可能不一样，别选错；
 - **保留凭证**：订单号、兑换码、支付宝 / 微信账单截图、客服聊天记录；
 - **先停掉旧的自动续费**：Apple / Google Play / 官网还有在扣费的订阅，先取消，避免和代充重复（方法见[《ChatGPT 订阅怎么管》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-dingyue-guanli-quxiao-2026.html)）；
 - **账号自己用**：售后政策写明转借他人、泄露卡密或密码、IP 环境异常、违反 OpenAI 使用政策导致的封禁不在质保范围。
@@ -163,7 +153,7 @@ GPT20X 首页和套餐页当前价格（2026-11-13 核对，以下单页实时�
 付款后自动发货，订单页立即显示交付内容。Plus、Go 自助兑换通常 2 分钟左右生效；Pro 按订单页提示加客服协助开通（每天 8:00–24:00）。
 
 **Q：能开发票吗？**  
-Pro 套餐下单时选发票选项即可（以 Pro 100 为例，开票价 ¥867、不开票 ¥818）；Plus、Go 等可在订单查询页下载收款凭证用于报销。
+Pro 套餐下单时选发票选项即可，开票价与不开票价可能不同，以结算页为准；Plus、Go 等可在订单查询页下载收款凭证用于报销。
 
 ---
 
@@ -172,7 +162,7 @@ Pro 套餐下单时选发票选项即可（以 Pro 100 为例，开票价 ¥867�
 - [OpenAI 帮助中心：Multi-currency billing](https://help.openai.com/en/articles/10421635-multicurrency-billing)（支持币种列表、各国付款方式、App 订阅走 Apple / Google）
 - [OpenAI 帮助中心：Managing billing for ChatGPT and the API platform](https://help.openai.com/en/articles/9039756-managing-billing-for-chatgpt-and-the-api-platform)（网页、Apple、Google 多平台订阅可能分别扣费）
 - [OpenAI 帮助中心：Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined)（银行卡被拒的官方排查步骤）
-- GPT20X [首页](https://gpt20x.com/)、[Plus 月付页](https://gpt20x.com/ChatGPTPlus2)、[Pro 100 页](https://gpt20x.com/ChatGPTPro5x)、[开通流程说明](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)、[售后政策](https://gpt20x.com/help)（付款方式、人民币价格、收据发票、退款与质保，2026-11-13 核对）
+- GPT20X [首页](https://gpt20x.com/)、[Plus 月付页](https://gpt20x.com/ChatGPTPlus2)、[Pro 100 页](https://gpt20x.com/ChatGPTPro5x)、[开通流程说明](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)、[售后政策](https://gpt20x.com/help)（付款方式、收据发票、退款与质保，2026-11-14 核对）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、付款方式和政策会变化，请以 OpenAI 帮助中心、账号内显示和下单页为准。
 

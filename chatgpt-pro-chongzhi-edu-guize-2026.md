@@ -143,22 +143,22 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 
 ---
 
-## 8. 国内 gpt pro 充值：价格对照与开通步骤
+## 8. 国内 gpt pro 充值：对照与开通步骤
 
-没有境外信用卡时，常见做法是通过代开通平台用支付宝 / 微信付款，把 Pro 开到**自己的账号**。以 GPT20X 为例（2026-11-08 核对公开页面，**以结算页实时显示为准**）：
+没有境外信用卡时，常见做法是通过代开通平台用支付宝 / 微信付款，把 Pro 开到**自己的账号**。官方月费是 Pro 100 $100、Pro 200 $200、Pro 500 $500，均为月付、无年付。国内开通以 GPT20X 结算页实时显示为准：
 
-| 官方档位 | 官方月费 | GPT20X 站内价（30 天） | 选开增值税普通发票时 | 开通页 |
-|---|---|---|---|---|
-| Pro 100 | $100 | ¥818 | ¥867 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
-| Pro 200 | $200 | ¥1480 | ¥1569 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
-| Pro 500 | $500 | ¥3880 | ¥4113 | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
+| 官方档位 | 官方月费 | 开通页 |
+|---|---|---|
+| Pro 100 | $100 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
+| Pro 200 | $200 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
+| Pro 500 | $500 | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
 
 三档放在一起看，可以打开 [GPT20X Pro 充值总览](https://gpt20x.com/pro)。页面写明的服务说明包括：支付失败支持退款、可在订单查询页下载收款凭证、企业可联系客服对公结算与批量开通、客服时间 8:00–24:00。
 
 **开通步骤（示例）：**
 
 1. **先定档**：按第 3–4 节估计你一周的 Work / Codex 消耗，拿不准就从 Pro 100 起步，观察 Usage 后再升。
-2. **打开对应档位页**，核对**档位名**（Pro 100 / 200 / 500）和**时长**（30 天）；需要报销的，确认是否勾选开票及开票价。
+2. **打开对应档位页**，核对**档位名**（Pro 100 / 200 / 500）和**时长**；需要报销的，确认是否勾选开票，以及开票后的结算金额。
 3. **填写联系方式**（用于查询订单和接收结果），用支付宝或微信付款。
 4. **按页面或客服指引完成开通**；全程不要提供 ChatGPT 密码、邮箱验证码或 2FA 恢复码。
 5. 保存订单号，可在 [订单查询](https://gpt20x.com/query) 查看进度和凭证。
@@ -191,7 +191,7 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 - [ ] 知道额度用完的三条路：等重置 / 换模型 / Credits；客服不能重置额度
 - [ ] 不把「5X / 20X / 50X」当官方倍数，下单页认准档位名和价格
 - [ ] 准备好**自己的** ChatGPT 账号；不提供密码、验证码
-- [ ] 保存订单号和付款凭证；需要发票的已核对开票价
+- [ ] 保存订单号和付款凭证；需要发票的已核对开票选项和结算金额
 - [ ] 开通后会去 **My Plan** 和 **Usage** 各看一次
 
 ---
@@ -229,7 +229,7 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 - [OpenAI 帮助中心：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)（三档价格、Ultrafast、额度调整、倍率、换档 / 取消 / 退款、无年付）
 - [OpenAI 帮助中心：Using Credits for Flexible Usage in ChatGPT (Personal plans)](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)（Credits 规则、共享额度）
 - [OpenAI：ChatGPT Pricing](https://openai.com/chatgpt/pricing/)（Pro 功能描述、上下文窗口）
-- [GPT20X：ChatGPT Pro 充值](https://gpt20x.com/pro)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开页面（人民币价格与开票价，2026-11-08 核对）
+- [GPT20X：ChatGPT Pro 充值](https://gpt20x.com/pro)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开开通页（2026-11-14 核对）
 - [GPT20X 博客：Pro 额度翻倍整理](https://gpt20x.com/blog/chatgpt-pro-usage-doubled-codex-recharge-2026)（调整公布时间）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、额度、模型和政策会变化，请以 OpenAI 帮助中心、账号内显示和结算页为准。

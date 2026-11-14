@@ -159,25 +159,25 @@ GPT20X 首页列有「**Codex 额度充值（Codex API 额度，按需充值 · 
 
 ---
 
-## 9. 国内 codex 代充：价格对照与开通步骤
+## 9. 国内 codex 代充：对照与开通步骤
 
-没有境外信用卡时，常见做法是通过代开通平台用支付宝 / 微信付款，把套餐开到**自己的账号**上，然后用这个账号登录 Codex。以 GPT20X 为例（2026-11-09 核对公开页面，**以结算页实时显示为准**）：
+没有境外信用卡时，常见做法是通过代开通平台用支付宝 / 微信付款，把套餐开到**自己的账号**上，然后用这个账号登录 Codex。官方个人套餐均为月付；国内开通以 GPT20X 结算页实时显示为准：
 
-| 套餐 | 官方月费 | GPT20X 站内价 | 和 Codex 的关系 | 开通页 |
-|---|---|---|---|---|
-| Go | 以官方页为准 | ¥79 / 30 天 | 能用 Codex，**无 Codex Cloud** | [Go 充值页](https://gpt20x.com/ChatGPTGo) |
-| Plus 月付 | $20 | ¥168 / 30 天 | Expanded Codex、Cloud、有限 Astra | [Plus 充值页](https://gpt20x.com/ChatGPTPlus2) |
-| Plus 年付 | 官方个人仅月付 | ¥1988 / 年 | 同 Plus | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
-| Pro 100 | $100 | ¥818 / 30 天（开票 ¥867） | 无 5 小时限额，Astra 在额度内 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
-| Pro 200 | $200 | ¥1480 / 30 天（开票 ¥1569） | 高于 Pro 100 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
-| Pro 500 | $500 | ¥3880 / 30 天 | 最高额度 + Ultrafast | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
+| 套餐 | 官方月费 | 和 Codex 的关系 | 开通页 |
+|---|---|---|---|
+| Go | 以官方页为准 | 能用 Codex，**无 Codex Cloud** | [Go 充值页](https://gpt20x.com/ChatGPTGo) |
+| Plus 月付 | $20 | Expanded Codex、Cloud、有限 Astra | [Plus 充值页](https://gpt20x.com/ChatGPTPlus2) |
+| Plus 年付 | 官方个人仅月付 | 同 Plus（平台预付形态） | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
+| Pro 100 | $100 | 无 5 小时限额，Astra 在额度内 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
+| Pro 200 | $200 | 高于 Pro 100 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
+| Pro 500 | $500 | 最高额度 + Ultrafast | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
 
 > Plus 官方 $20 / 月与 Pro 三档美元价分别见 [ChatGPT Plus 充值怎么选](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-plus-chongzhi-yuefu-2026.html) 和 [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。Plus 与 Pro 的总览可看 [GPT20X Plus 介绍](https://gpt20x.com/chatgpt-plus) 和 [GPT20X Pro 总览](https://gpt20x.com/pro)。
 
 **开通步骤（示例）：**
 
 1. **先定档**：按第 4、11 节估一下自己每 5 小时、每周的用量；拿不准从 Plus 起步，连续一周经常撞 5 小时限额再升 Pro 100。
-2. **打开对应充值页**，核对**套餐名和时长**；需要报销的确认开票价。
+2. **打开对应充值页**，核对**套餐名和时长**；需要报销的确认开票选项和结算金额。
 3. **填写联系方式**（用于查订单和接收结果），支付宝或微信付款。
 4. **按页面或客服指引完成开通**；全程**不要提供 ChatGPT 密码、邮箱验证码或 2FA 恢复码**。卡密类商品的兑换见[《GPT 代充卡密怎么兑换》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)。
 5. 保存订单号，在 [订单查询](https://gpt20x.com/query) 看进度和收款凭证；Codex 相关问题可在 [常见问题](https://gpt20x.com/faq) 的「Codex」分类里查。
@@ -266,7 +266,7 @@ Credits 只付用量、不增加模型权限；Plus、Pro 100、Pro 200 买 Cred
 - [Codex Pricing](https://chatgpt.com/codex/pricing/)（Plus 每 5 小时估算表、Astra 包含情况、API Key 按量）
 - [ChatGPT Learn：Speed](https://learn.chatgpt.com/docs/agent-configuration/speed)（Fast / Ultrafast 倍率、GPT-5.5 下线、API Key 计费）
 - [OpenAI 帮助中心：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)（Pro 三档美元价）
-- [GPT20X 首页](https://gpt20x.com/)、[Plus](https://gpt20x.com/ChatGPTPlus2)、[Plus 年付](https://gpt20x.com/ChatGPTPlusYear)、[Go](https://gpt20x.com/ChatGPTGo)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开页面（人民币价格与开票价，2026-11-09 核对）
+- [GPT20X 首页](https://gpt20x.com/)、[Plus](https://gpt20x.com/ChatGPTPlus2)、[Plus 年付](https://gpt20x.com/ChatGPTPlusYear)、[Go](https://gpt20x.com/ChatGPTGo)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开开通页（2026-11-14 核对）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、额度、模型和政策会变化，请以 OpenAI 帮助中心、账号内显示和结算页为准。
 

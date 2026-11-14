@@ -191,18 +191,18 @@ description: chatgpt 订阅管理一篇讲清：网页 / Apple / Google Play 三
 
 ---
 
-## 11. 国内开通 ChatGPT 订阅：价格对照与步骤
+## 11. 国内开通 ChatGPT 订阅：对照与步骤
 
-没有境外信用卡、也不方便用外区 Apple ID 的，常见做法是用支付宝 / 微信找平台**把订阅开到你自己的账号上**。以 [GPT20X](https://gpt20x.com/) 为例，下表价格来自其公开页面（2026-11-10 核对，以下单页实时显示为准）：
+没有境外信用卡、也不方便用外区 Apple ID 的，常见做法是用支付宝 / 微信找平台**把订阅开到你自己的账号上**。官方个人套餐价：Plus $20 / 月，Pro 三档 $100 / $200 / $500 / 月，Go 以[官方定价页](https://chatgpt.com/pricing/)为准，均无官方年付。国内开通可在 [GPT20X](https://gpt20x.com/) 打开对应下单页，人民币价格以页面实时显示为准：
 
-| 套餐 | 官方价 | GPT20X 价格 | 下单页 |
-|---|---|---|---|
-| Go | 以官方定价页为准 | ¥79 / 30 天 | [Go 充值页](https://gpt20x.com/ChatGPTGo) |
-| Plus 月付 | $20 / 月 | ¥168 / 30 天 | [Plus 充值页](https://gpt20x.com/ChatGPTPlus2) |
-| Plus 年付 | 官方无年付 | ¥1988 / 年 | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
-| Pro 100 | $100 / 月 | ¥818 / 30 天（开票 ¥867） | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
-| Pro 200 | $200 / 月 | ¥1480 / 30 天（开票 ¥1569） | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
-| Pro 500 | $500 / 月 | ¥3880 / 30 天 | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
+| 套餐 | 官方价 | 下单页 |
+|---|---|---|
+| Go | 以官方定价页为准 | [Go 充值页](https://gpt20x.com/ChatGPTGo) |
+| Plus 月付 | $20 / 月 | [Plus 充值页](https://gpt20x.com/ChatGPTPlus2) |
+| Plus 年付 | 官方无年付（如有年付为平台预付商品） | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
+| Pro 100 | $100 / 月 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
+| Pro 200 | $200 / 月 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
+| Pro 500 | $500 / 月 | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
 
 **开通前先把订阅管理这件事理顺：**
 
@@ -263,7 +263,7 @@ description: chatgpt 订阅管理一篇讲清：网页 / Apple / Google Play 三
 - [OpenAI 帮助中心：Troubleshooting ChatGPT subscription access and account changes](https://help.openai.com/en/articles/20001056-troubleshooting-chatgpt-subscription-access-and-account-changes)（Apple ID / Google 账号关联与购买限制、用原账号改套餐）
 - [OpenAI 帮助中心：What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)（Plus $20/月按月计费、无年付、账单查看、付费仍显示 Free 的排查、退款 5–10 个工作日）
 - [OpenAI 帮助中心：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)（Pro 三档美元价、My Plan、预约取消可撤销、续费失败不等于结束、Pro 无年付）
-- [GPT20X 首页](https://gpt20x.com/)、[Go](https://gpt20x.com/ChatGPTGo)、[Plus](https://gpt20x.com/ChatGPTPlus2)、[Plus 年付](https://gpt20x.com/ChatGPTPlusYear)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开页面（人民币价格与开票价，2026-11-10 核对）
+- [GPT20X 首页](https://gpt20x.com/)、[Go](https://gpt20x.com/ChatGPTGo)、[Plus](https://gpt20x.com/ChatGPTPlus2)、[Plus 年付](https://gpt20x.com/ChatGPTPlusYear)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开开通页（2026-11-14 核对）
 - [GPT20X：ChatGPT Plus 充值价格与教程](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)（自助充值订单通常为单次购买、不默认连续扣款）
 
 > 本文为个人整理，非 OpenAI 官方内容。订阅、价格和政策会变化，请以 OpenAI 帮助中心、账号内显示和结算页为准。

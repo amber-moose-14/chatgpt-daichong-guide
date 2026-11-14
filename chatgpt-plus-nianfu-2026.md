@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ChatGPT Plus 年付值不值：官方有没有年付、¥1988 一年怎么算、退款升级续费风险 + 适合谁
-description: chatgpt plus 年付前先看这篇：OpenAI 官方 Plus 只有月付、没有年付；国内代开通的 Plus 年付 ¥1988 一年和 ¥168/30 天月付怎么比、11.8 个月的回本线、一年里套餐规则变化、退款与升级 Pro 的风险，以及哪些人适合 chatgpt plus 充值选年付、哪些人应该继续月付。
+title: ChatGPT Plus 年付值不值：官方有没有年付、平台年付怎么算、退款升级续费风险 + 适合谁
+description: chatgpt plus 年付前先看这篇：OpenAI 官方 Plus 只有月付、没有年付；国内代开通的 Plus 年付是平台预付商品，要按 30 天一期而不是 12 个自然月来和月付比、一年里套餐规则变化、退款与升级 Pro 的风险，以及哪些人适合 chatgpt plus 充值选年付、哪些人应该继续月付。
 ---
 
-# ChatGPT Plus 年付值不值：官方有没有年付、¥1988 一年怎么算、退款升级续费风险 + 适合谁
+# ChatGPT Plus 年付值不值：官方有没有年付、平台年付怎么算、退款升级续费风险 + 适合谁
 
 ![ChatGPT Plus 年付值不值封面](images/chatgpt-plus-nianfu-2026-cover.png)
 
-**简短回答：** OpenAI **官方没有 ChatGPT Plus 年付**。帮助中心写的是 Plus $20/月、按月计费，「目前不支持年付，也不能一次预付多个月」；定价页也写明月付覆盖 Go、Plus、Business，**年付只给 Business 和 Enterprise**。所以你在国内看到的「Plus 年付」，是**第三方平台自己的商品**，不是 OpenAI 的套餐。以 GPT20X 为例，Plus 年付 **¥1988/一年**，月付 **¥168/30 天**：连续买满 12 个月才比月付便宜，**一年里只要有一个月不用，月付就更省**。年付适合「确定一整年天天用 Plus、不打算中途升 Pro」的人；第一次开、用量拿不准、可能升级的，先月付。（2026-11-12 核对，来源见文末）
+**简短回答：** OpenAI **官方没有 ChatGPT Plus 年付**。帮助中心写的是 Plus $20/月、按月计费，「目前不支持年付，也不能一次预付多个月」；定价页也写明月付覆盖 Go、Plus、Business，**年付只给 Business 和 Enterprise**。所以你在国内看到的「Plus 年付」，是**第三方平台自己的商品**，不是 OpenAI 的套餐。比较时不要只拿 12 次月付去对年付：平台月付常见按 30 天一期，覆盖完整一年往往要 13 期。**一年里只要有一个月不用，月付通常更省**。年付适合「确定一整年天天用 Plus、不打算中途升 Pro」的人；第一次开、用量拿不准、可能升级的，先月付。（2026-11-14 核对，来源见文末）
 
 ---
 
@@ -16,7 +16,7 @@ description: chatgpt plus 年付前先看这篇：OpenAI 官方 Plus 只有月�
 
 1. 官方到底有没有 Plus 年付
 2. 国内「Plus 年付」是什么商品
-3. ¥1988 一年怎么算：回本线是 11.8 个月
+3. 平台年付怎么算：先数清月付要买几期
 4. 年付的 5 个风险点
 5. 谁适合年付，谁应该继续月付
 6. 下单年付前要问清的 6 个问题
@@ -51,35 +51,35 @@ description: chatgpt plus 年付前先看这篇：OpenAI 官方 Plus 只有月�
 | 价格变动 | 官方可调价，按新价扣 | 已付的一年价格锁定 |
 | 售后找谁 | OpenAI 支持 | 卖你年付的平台 |
 
-GPT20X 的公开页面（2026-11-12 核对）：
+GPT20X 的公开页面（以下单页实时显示为准）：
 
-- [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear)：**¥1988/一年**，写明「充值失败 · 支持退款」；
-- [Plus 月付页](https://gpt20x.com/ChatGPTPlus2)：**¥168/30 天**，写明「充值失败 · 支持退款」、可下载报销收据、企业可对公批量；
+- [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear)：写明「充值失败 · 支持退款」，价格见页面；
+- [Plus 月付页](https://gpt20x.com/ChatGPTPlus2)：写明「充值失败 · 支持退款」、可下载报销收据、企业可对公批量，价格见页面；
 - 首页写明「无需海外信用卡，微信 / 支付宝直接开通」「全程无需提供账号密码」「30 天质保服务」；
-- [价格指南](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)写明其自助充值订单**通常是单次购买、不会默认连续扣款**。
+- [充值说明](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)写明其自助充值订单**通常是单次购买、不会默认连续扣款**。
 
 一句话：**年付是向平台买「一年的省心」，你承担的是平台这一年的履约能力。**
 
 ---
 
-## 3. ¥1988 一年怎么算：回本线是 11.8 个月
+## 3. 平台年付怎么算：先数清月付要买几期
 
-把两种买法摆在一起（价格以下单页实时显示为准）：
+把两种买法摆在一起时，先到下单页抄下月付单价和年付一次付清的价格，再用下面的算法比（不要用过期截图里的数字）：
 
-| 算法 | 月付 ¥168/30 天 | 年付 ¥1988/一年 |
-|---|---|---|
-| 连续买 12 次（360 天） | ¥2016 | — |
-| 折合每天（年付按 365 天） | ¥5.60 | 约 ¥5.45 |
-| 覆盖 365 天的花费 | 约 ¥2044 | ¥1988 |
-| 相比月付省多少 | — | ¥28～¥56，约 1.4%～2.7% |
+| 要比的事 | 怎么算 |
+|---|---|
+| 连续买 12 次月付 | 只覆盖 360 天（若一期是 30 天） |
+| 覆盖完整 365 天 | 月付往往要 13 期，不能只按 12 期算 |
+| 回本线 | 用「年付总价 ÷ 月付单价」，看你要连续买满多少期，年付才开始更省 |
+| 会停用的月份 | 把实际要用的期数乘月付单价，再和年付比 |
 
-**回本线：** ¥1988 ÷ ¥168 ≈ **11.8 个月**。也就是说：
+也就是说：
 
-- 一年里你会连续用满 12 个月 → 年付略省；
-- 一年里你会停 1 个月（放假、换工作、项目结束）→ 11 个月月付是 ¥1848，**比年付便宜 ¥140**；
-- 停 3 个月 → 9 个月月付 ¥1512，比年付便宜 ¥476。
+- 一年里你会连续用满、中间不断档 → 年付才可能略省；
+- 一年里你会停 1 个月（放假、换工作、项目结束）→ 少买那一期，月付通常更省；
+- 停得越多，月付越划算。
 
-所以年付的价值**主要不在省钱**（差价只有几十元），而在于：一年不用每月惦记续费、不怕忘续断档、价格提前锁定。如果你看重的是省钱本身，月付按需买更灵活。按天算续费成本的细节，可以用 [Plus 月付 vs 年付续费成本计算器](https://huggingface.co/spaces/gpt20x/chatgpt-plus) 试一下。
+所以年付的价值**主要不在省钱**（把当下页面的数字填进计算器，差价往往不大），而在于：一年不用每月惦记续费、不怕忘续断档、价格提前锁定。如果你看重的是省钱本身，月付按需买更灵活。按天算续费成本的细节，可以把下单页价格填进 [Plus 月付 vs 年付续费成本计算器](https://huggingface.co/spaces/gpt20x/chatgpt-plus) 试一下。
 
 ---
 
@@ -159,8 +159,8 @@ GPT20X 的公开页面（2026-11-12 核对）：
 **Q：ChatGPT Plus 有官方年付吗？**  
 没有。OpenAI 帮助中心写明 Plus 按月计费，不支持年付或多月预付；官方年付只面向 Business 和 Enterprise。
 
-**Q：Plus 年付 ¥1988 比月付便宜多少？**  
-按 GPT20X 当前价格，年付比连续买 12 次月付（¥2016）便宜 ¥28；按 365 天折算约便宜 ¥56。只要一年里有一个月不用，月付更省。
+**Q：Plus 年付比月付便宜多少？**  
+把下单页的月付价乘以所需期数（全年不断档按 13 期，不要只按 12 期），再和年付一次付清的价格比。差价往往不大；只要一年里有一个月不用，月付通常更省。
 
 **Q：年付中途不想用了能退吗？**  
 看卖家规则。GPT20X 售后政策写明虚拟商品发货后原则上不接受无理由退款，失败或首次使用前无效可退款或补发；具体以下单前客服确认为准。
@@ -183,7 +183,7 @@ Business 是面向团队工作区的套餐，计费、席位和管理方式都�
 - [OpenAI 帮助中心：Canceling your ChatGPT subscription](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription)（取消只停止续费、不自动退款，需提前 24 小时）
 - [OpenAI 帮助中心：How do I request a refund for my ChatGPT subscription?](https://help.openai.com/en/articles/7232895-how-do-i-request-a-refund-for-my-chatgpt-subscription)（付款一般不可退、7 天内酌情退款条件）
 - [OpenAI 帮助中心：Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)（ChatGPT 与 Codex 额度规则）
-- GPT20X 首页、[Plus 年付页](https://gpt20x.com/ChatGPTPlusYear)、[Plus 月付页](https://gpt20x.com/ChatGPTPlus2)、[售后政策](https://gpt20x.com/help)、[价格指南](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)（人民币价格与售后说明，2026-11-12 核对）
+- GPT20X 首页、[Plus 年付页](https://gpt20x.com/ChatGPTPlusYear)、[Plus 月付页](https://gpt20x.com/ChatGPTPlus2)、[售后政策](https://gpt20x.com/help)、[价格指南](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)（开通页与售后说明，2026-11-14 核对）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、额度和政策会变化，请以 OpenAI 帮助中心、账号内显示和下单页为准。
 

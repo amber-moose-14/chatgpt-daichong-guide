@@ -58,7 +58,7 @@ OpenAI 个人付费档目前公开对照的是 **Go / Plus / Pro**（另有团�
 
 ---
 
-## 3. 官方标价与国内站内参考价怎么对照
+## 3. 官方标价怎么看，国内开通到哪里核对
 
 **官方侧（以帮助中心与套餐页为准，2026-11-07 核对）：**
 
@@ -66,16 +66,16 @@ OpenAI 个人付费档目前公开对照的是 **Go / Plus / Pro**（另有团�
 - **Go / Pro**：功能与档位以 [ChatGPT Pricing](https://openai.com/chatgpt/pricing/) 实时页为准；Pro 另见帮助中心「About ChatGPT Pro tiers」。不同地区可能有本地化标价，**结账页显示的金额才是最终应付**。
 - 个人档常见支付方式为官方支持的信用卡等；团队档另有年付等规则，与个人 Go/Plus/Pro 不要混为一谈。
 
-**国内代开通站内标价示例（GPT20X，2026-11-07 核对公开页，以结算页为准）：**
+国内代开通的人民币价格以结算页为准，可在下面的 GPT20X 页面核对档位和时长（**Plus 年付是平台预付形态，不等于官方已开放 Plus 年付**）：
 
-| 套餐 | 站内公开标价 | 参考页面 |
-|---|---|---|
-| ChatGPT Go | ¥79 / 30 天 | 产品页公开价 |
-| ChatGPT Plus 月付 | ¥168 / 30 天 | Plus 月付页 |
-| ChatGPT Plus 年付 | ¥1988 / 一年 | Plus 年付页（平台侧预付形态，**不等于**官方已开放 Plus 年付） |
-| ChatGPT Pro（多档） | 站内可见约 ¥818 / ¥1480 / ¥3880 每 30 天等 | 以首页 / Pro 结算页实时显示为准 |
+| 套餐 | 参考页面 |
+|---|---|
+| ChatGPT Go | [Go 开通页](https://gpt20x.com/ChatGPTGo) |
+| ChatGPT Plus 月付 | [Plus 月付页](https://gpt20x.com/ChatGPTPlus2) |
+| ChatGPT Plus 年付 | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
+| ChatGPT Pro（多档） | [Pro 总览](https://gpt20x.com/pro) |
 
-需要横向对照多种开通费用时，可看[各开通方式费用参考](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)。汇率、活动价、税费都会变，**任何绝对「更划算」的说法都应以当下页面为准**。
+需要对照开通方式时，可看 [GPT20X 的充值说明](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)。税费和页面标价都会变，**下单前以当下结算页为准**。
 
 ---
 
