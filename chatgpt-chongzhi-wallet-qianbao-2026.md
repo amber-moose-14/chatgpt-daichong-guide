@@ -119,7 +119,7 @@ Wallet 对国内用户的现实意义不大：它要求美国 Pro 账户和美�
 
 1. **自己有境外信用卡**：在 chatgpt.com 的结账页直接订阅，被拒时按 [《Your card was declined 怎么办》](https://amber-moose-14.github.io/chatgpt-daichong-guide/card-declined-fix.html) 排查；
 2. **应用商店订阅**：用 Apple / Google 账户里的付款方式订阅，扣费和取消都在应用商店里管；
-3. **chatgpt代充**：没有境外卡的人，用支付宝或微信支付人民币，由代充平台把套餐开到你自己的账号上。以 GPT20X（gpt20x.com）为例，结账页支持支付宝、微信支付，不需要海外信用卡，也不需要提供账号密码，具体套餐以 [官网](https://gpt20x.com/) 当前显示为准。
+3. **chatgpt代充**：没有境外卡的人，可以通过 [GPT充值](https://gpt20x.com/chatgpt-plus) 用支付宝或微信支付人民币，由代充平台把套餐开到你自己的账号上。以 GPT20X（gpt20x.com）为例，结账页支持支付宝、微信支付，不需要海外信用卡，也不需要提供账号密码，具体套餐以下单页当前显示为准。
 
 ChatGPT 对账号使用地区有要求，开通前建议先看一下 OpenAI 官方的支持地区说明。
 
@@ -173,4 +173,4 @@ ChatGPT 对账号使用地区有要求，开通前建议先看一下 OpenAI 官�
 
 ---
 
-*最后更新：2026-11-14*　｜　[返回教程首页](README.md)
+*最后更新：2026-11-14*　｜　[返回教程首页](README.md)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理

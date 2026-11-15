@@ -8,7 +8,7 @@ description: chatgpt 代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 ![ChatGPT 代充支付宝微信付款封面](images/chatgpt-daichong-zhifubao-weixin-2026-cover.png)
 
-**简短回答：** OpenAI **官方结账页不收支付宝、微信，也不收人民币**。帮助中心的 Multi-currency billing 页写明：所有国家都可以用信用卡 / 借记卡，另外只在少数市场开放本地支付（英国和欧洲经济区的 Link、印度 UPI、印尼 GoPay、巴西 Pix、韩国 Kakao Pay / Naver Pay、菲律宾 GCash、越南 MoMo），支持的币种列表里也没有人民币。所以国内没有境外卡的人想用支付宝或微信，走的是 **ChatGPT 代充**：你用人民币付给代充平台，平台把套餐开到你自己的账号上。以 GPT20X 为例，结账页支持**支付宝、微信直接付款，人民币结算，不需要海外信用卡**；付款后订单页会显示交付内容，Plus / Go 按教程自助兑换，通常 2 分钟左右生效，Pro 按订单页提示加客服协助开通。（2026-11-13 核对，来源见文末）
+**简短回答：** OpenAI **官方结账页不收支付宝、微信，也不收人民币**。帮助中心的 Multi-currency billing 页写明：所有国家都可以用信用卡 / 借记卡，另外只在少数市场开放本地支付（英国和欧洲经济区的 Link、印度 UPI、印尼 GoPay、巴西 Pix、韩国 Kakao Pay / Naver Pay、菲律宾 GCash、越南 MoMo），支持的币种列表里也没有人民币。所以国内没有境外卡的人，可以通过 [ChatGPT代充](https://gpt20x.com/) 平台用支付宝或微信把套餐开到自己的账号上。以 GPT20X 为例，结账页支持**支付宝、微信直接付款，人民币结算，不需要海外信用卡**；付款后订单页会显示交付内容，Plus / Go 按教程自助兑换，通常 2 分钟左右生效，Pro 按订单页提示加客服协助开通。（2026-11-13 核对，来源见文末）
 
 ---
 
@@ -51,7 +51,7 @@ description: chatgpt 代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 ## 2. 代充用支付宝 / 微信，付的到底是什么
 
-用支付宝或微信付款时，你的钱是付给**代充平台**，不是付给 OpenAI。拿 GPT20X 的[开通流程说明](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)来看：
+用支付宝或微信付款时，你的钱是付给**代充平台**，不是付给 OpenAI。拿 GPT20X 的开通流程说明来看：
 
 - 付款后拿到的是**本站订单兑换码**，只用于核对平台订单和套餐，**不是 OpenAI 官方充值卡、礼品卡或官方兑换码**；
 - 用兑换码在自助页验证、确认账号和套餐后提交，套餐开到**你自己的 ChatGPT 账号**，聊天记录保留，不需要提供密码；
@@ -75,7 +75,7 @@ description: chatgpt 代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 | 步骤 | 做什么 | 要注意 |
 |---|---|---|
-| ① 选套餐 | 在 [GPT20X 首页](https://gpt20x.com/) 选 Plus / Go / Pro | 看清是 30 天还是一年 |
+| ① 选套餐 | 在下单页选 Plus / Go / Pro | 看清是 30 天还是一年 |
 | ② 填联系方式 | 下单页填写用于查单的联系方式 | 写自己常用的，丢了订单靠它找回 |
 | ③ 选付款方式 | 结账页选**支付宝**或**微信**，扫码付款 | 只在结账页付款，不私下转账 |
 | ④ 领取兑换码 | 付款后自动发货，订单页立即显示交付内容 | 截图保存订单号和兑换码 |
@@ -88,7 +88,7 @@ description: chatgpt 代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 ## 5. 收据、发票和各套餐怎么开通
 
-各套餐的人民币价格以下单页实时显示为准，可在 [GPT20X](https://gpt20x.com/) 打开对应开通页核对。Plus / Go 多为自助兑换，Plus 年付和 Pro 常见为人工开通或客服协助。
+各套餐的人民币价格以下单页实时显示为准。Plus / Go 多为自助兑换，Plus 年付和 Pro 常见为人工开通或客服协助。
 
 **报销收据：** Plus 月付、Pro 100 等套餐页写明「付款后可在订单查询页下载收款凭证」，Plus 年付页写明「提供报销收据」。
 
@@ -102,12 +102,12 @@ description: chatgpt 代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 | 情况 | 先做什么 |
 |---|---|
-| 付了钱，页面关掉了没看到兑换码 | 到[订单查询页](https://gpt20x.com/query)用下单时的联系方式查，**不要重复下单** |
+| 付了钱，页面关掉了没看到兑换码 | 到订单查询页用下单时的联系方式查，**不要重复下单** |
 | 订单信息没保存 | 同上；查不到再带付款记录（支付宝 / 微信账单截图）联系客服 |
 | 提示兑换码无效 | 检查是否复制完整、有没有多余空格、是否已经提交过 |
 | 提交后一直「处理中」 | 不要重复提交，在自助页查询状态；长时间不变，准备订单号、兑换码和提交时间找客服 |
 | 开通了，账号还是免费版 | 退出 ChatGPT 重新登录；仍是免费版再联系客服 |
-| 确认开不了，想退款 | [售后政策](https://gpt20x.com/help)：首次使用前验证无效或无法充值，核实后全额退款；已成功开通后不支持无理由退款 |
+| 确认开不了，想退款 | 售后政策：首次使用前验证无效或无法充值，核实后全额退款；已成功开通后不支持无理由退款 |
 
 售后流程按售后政策写的是：订单查询页看状态 → 带订单号联系客服 → 核实后补换或退款；客服每天 8:00–24:00 在线，一般当天处理。质保期 30 天，我方原因失效核实后免费补换。
 
@@ -162,10 +162,10 @@ Pro 套餐下单时选发票选项即可，开票价与不开票价可能不同�
 - [OpenAI 帮助中心：Multi-currency billing](https://help.openai.com/en/articles/10421635-multicurrency-billing)（支持币种列表、各国付款方式、App 订阅走 Apple / Google）
 - [OpenAI 帮助中心：Managing billing for ChatGPT and the API platform](https://help.openai.com/en/articles/9039756-managing-billing-for-chatgpt-and-the-api-platform)（网页、Apple、Google 多平台订阅可能分别扣费）
 - [OpenAI 帮助中心：Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined)（银行卡被拒的官方排查步骤）
-- GPT20X [首页](https://gpt20x.com/)、[Plus 月付页](https://gpt20x.com/ChatGPTPlus2)、[Pro 100 页](https://gpt20x.com/ChatGPTPro5x)、[开通流程说明](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)、[售后政策](https://gpt20x.com/help)（付款方式、收据发票、退款与质保，2026-11-14 核对）
+- GPT20X 首页、Plus 月付页、Pro 100 页、开通流程说明、售后政策（付款方式、收据发票、退款与质保，2026-11-14 核对）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、付款方式和政策会变化，请以 OpenAI 帮助中心、账号内显示和下单页为准。
 
 ---
 
-*最后更新：2026-11-13*　｜　[返回教程首页](README.md)
+*最后更新：2026-11-13*　｜　[返回教程首页](README.md)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理

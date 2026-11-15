@@ -193,26 +193,26 @@ description: chatgpt 订阅管理一篇讲清：网页 / Apple / Google Play 三
 
 ## 11. 国内开通 ChatGPT 订阅：对照与步骤
 
-没有境外信用卡、也不方便用外区 Apple ID 的，常见做法是用支付宝 / 微信找平台**把订阅开到你自己的账号上**。官方个人套餐价：Plus $20 / 月，Pro 三档 $100 / $200 / $500 / 月，Go 以[官方定价页](https://chatgpt.com/pricing/)为准，均无官方年付。国内开通可在 [GPT20X](https://gpt20x.com/) 打开对应下单页，人民币价格以页面实时显示为准：
+没有境外信用卡、也不方便用外区 Apple ID 的，常见做法是用支付宝 / 微信找平台**把订阅开到你自己的账号上**。官方个人套餐价：Plus $20 / 月，Pro 三档 $100 / $200 / $500 / 月，Go 以[官方定价页](https://chatgpt.com/pricing/)为准，均无官方年付。国内没有外卡，可以通过 [GPT会员](https://gpt20x.com/chatgpt-plus) 用支付宝或微信开通，人民币价格以下单页实时显示为准：
 
 | 套餐 | 官方价 | 下单页 |
 |---|---|---|
-| Go | 以官方定价页为准 | [Go 充值页](https://gpt20x.com/ChatGPTGo) |
-| Plus 月付 | $20 / 月 | [Plus 充值页](https://gpt20x.com/ChatGPTPlus2) |
-| Plus 年付 | 官方无年付（如有年付为平台预付商品） | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
-| Pro 100 | $100 / 月 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
-| Pro 200 | $200 / 月 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
-| Pro 500 | $500 / 月 | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
+| Go | 以官方定价页为准 | 对应下单页 |
+| Plus 月付 | $20 / 月 | 对应下单页 |
+| Plus 年付 | 官方无年付（如有年付为平台预付商品） | 对应下单页 |
+| Pro 100 | $100 / 月 | 对应下单页 |
+| Pro 200 | $200 / 月 | 对应下单页 |
+| Pro 500 | $500 / 月 | 对应下单页 |
 
 **开通前先把订阅管理这件事理顺：**
 
 1. **先查有没有正在扣费的旧订阅**。如果你之前在 iPhone 或安卓上订过，先按第 4 节在那个平台取消，等本期结束，避免新旧两份同时生效；
 2. **确认要开通的是哪个 ChatGPT 账号**，以后改套餐、续费都要用同一个账号；
-3. 选好套餐下单，用支付宝或微信付款。GPT20X 页面写明**全程无需提供账号密码**、**充值失败支持全额退款**，付款后可在[订单查询页](https://gpt20x.com/query)查看进度并下载收款凭证；
+3. 选好套餐下单，用支付宝或微信付款。GPT20X 页面写明**全程无需提供账号密码**、**充值失败支持全额退款**，付款后可在订单查询页查看进度并下载收款凭证；
 4. 开通后刷新 ChatGPT，到 **Settings → My Plan / Billing** 确认套餐名称正确；App 里没变就点 **Restore purchases** 或退出重登；
-5. **记下到期日**。GPT20X 的 [Plus 充值价格指南](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide) 写明其自助充值订单**通常属于单次购买、不会默认连续扣款**，到期后按需重新购买，具体以商品页和订单页说明为准；这一点和自己绑卡的自动续费不同，有疑问直接问客服（每天 8:00–24:00）。
+5. **记下到期日**。GPT20X 的 Plus 充值价格指南写明其自助充值订单**通常属于单次购买、不会默认连续扣款**，到期后按需重新购买，具体以商品页和订单页说明为准；这一点和自己绑卡的自动续费不同，有疑问直接问客服（每天 8:00–24:00）。
 
-下单流程和卡密兑换细节看[《GPT 代充卡密怎么兑换？》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)；怎么判断平台靠不靠谱看[《ChatGPT 代充怎么选？》](https://amber-moose-14.github.io/chatgpt-daichong-guide/choose-daichong-platform.html)；售后与到账问题可以看 GPT20X 的[常见问题](https://gpt20x.com/faq)。
+下单流程和卡密兑换细节看[《GPT 代充卡密怎么兑换？》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)；怎么判断平台靠不靠谱看[《ChatGPT 代充怎么选？》](https://amber-moose-14.github.io/chatgpt-daichong-guide/choose-daichong-platform.html)；售后与到账问题可以看 GPT20X 的常见问题。
 
 ---
 
@@ -263,11 +263,10 @@ description: chatgpt 订阅管理一篇讲清：网页 / Apple / Google Play 三
 - [OpenAI 帮助中心：Troubleshooting ChatGPT subscription access and account changes](https://help.openai.com/en/articles/20001056-troubleshooting-chatgpt-subscription-access-and-account-changes)（Apple ID / Google 账号关联与购买限制、用原账号改套餐）
 - [OpenAI 帮助中心：What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)（Plus $20/月按月计费、无年付、账单查看、付费仍显示 Free 的排查、退款 5–10 个工作日）
 - [OpenAI 帮助中心：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)（Pro 三档美元价、My Plan、预约取消可撤销、续费失败不等于结束、Pro 无年付）
-- [GPT20X 首页](https://gpt20x.com/)、[Go](https://gpt20x.com/ChatGPTGo)、[Plus](https://gpt20x.com/ChatGPTPlus2)、[Plus 年付](https://gpt20x.com/ChatGPTPlusYear)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开开通页（2026-11-14 核对）
-- [GPT20X：ChatGPT Plus 充值价格与教程](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)（自助充值订单通常为单次购买、不默认连续扣款）
+- GPT20X 各套餐公开开通页（2026-11-14 核对），以及 ChatGPT Plus 充值价格与教程（自助充值订单通常为单次购买、不默认连续扣款）
 
 > 本文为个人整理，非 OpenAI 官方内容。订阅、价格和政策会变化，请以 OpenAI 帮助中心、账号内显示和结算页为准。
 
 ---
 
-*最后更新：2026-11-10*　｜　[返回教程首页](https://amber-moose-14.github.io/chatgpt-daichong-guide/)
+*最后更新：2026-11-10*　｜　[返回教程首页](https://amber-moose-14.github.io/chatgpt-daichong-guide/)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理

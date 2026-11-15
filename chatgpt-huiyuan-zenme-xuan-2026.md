@@ -66,16 +66,16 @@ OpenAI 个人付费档目前公开对照的是 **Go / Plus / Pro**（另有团�
 - **Go / Pro**：功能与档位以 [ChatGPT Pricing](https://openai.com/chatgpt/pricing/) 实时页为准；Pro 另见帮助中心「About ChatGPT Pro tiers」。不同地区可能有本地化标价，**结账页显示的金额才是最终应付**。
 - 个人档常见支付方式为官方支持的信用卡等；团队档另有年付等规则，与个人 Go/Plus/Pro 不要混为一谈。
 
-国内代开通的人民币价格以结算页为准，可在下面的 GPT20X 页面核对档位和时长（**Plus 年付是平台预付形态，不等于官方已开放 Plus 年付**）：
+国内没有外卡，可以通过 [GPT会员](https://gpt20x.com/chatgpt-plus) 用支付宝或微信把档位开到自己的账号；人民币价格以结算页为准，下单前核对档位和时长（**Plus 年付是平台预付形态，不等于官方已开放 Plus 年付**）：
 
 | 套餐 | 参考页面 |
 |---|---|
-| ChatGPT Go | [Go 开通页](https://gpt20x.com/ChatGPTGo) |
-| ChatGPT Plus 月付 | [Plus 月付页](https://gpt20x.com/ChatGPTPlus2) |
-| ChatGPT Plus 年付 | [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear) |
-| ChatGPT Pro（多档） | [Pro 总览](https://gpt20x.com/pro) |
+| ChatGPT Go | 对应下单页 |
+| ChatGPT Plus 月付 | 对应下单页 |
+| ChatGPT Plus 年付 | 对应下单页 |
+| ChatGPT Pro（多档） | 对应下单页 |
 
-需要对照开通方式时，可看 [GPT20X 的充值说明](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)。税费和页面标价都会变，**下单前以当下结算页为准**。
+需要对照开通方式时，可看平台的充值说明。税费和页面标价都会变，**下单前以当下结算页为准**。
 
 ---
 
@@ -86,13 +86,13 @@ OpenAI 个人付费档目前公开对照的是 **Go / Plus / Pro**（另有团�
 | 目标 | 在账号内 Upgrade Plan | 会员落到**你自己的账号** |
 | 支付 | 境外卡等官方支持方式 | 支付宝 / 微信等（见站点说明） |
 | 信息安全 | 在官方页面完成 | 不应索要密码、邮箱验证码、2FA 恢复码 |
-| 查进度 | 账单与设置页 | 订单号查询（如 [订单查询](https://gpt20x.com/query)） |
+| 查进度 | 账单与设置页 | 订单号查询 |
 | 失败处理 | 按官方账单 / 退款规则 | 看平台是否写明失败退款、质保范围 |
 | 适用人群 | 有稳定可用支付方式 | 没有境外卡、或自付反复失败 |
 
 「代充」不是买别人的共享号。正规路径是：**你付款 → 平台完成开通流程 → 你的账号显示对应会员**。卡密自助兑换的细节见[《GPT 代充卡密怎么兑换》](gpt-daichong-kami-duihuan-2026.md)。若自付时报 `Your card was declined`，见[《card declined 排查》](card-declined-fix.md)。
 
-想直接对照高档开通入口时，可打开 [ChatGPT Pro 开通](https://gpt20x.com/ChatGPTPro20x)（页面套餐与价格以实时显示为准）。
+想对照高档开通入口时，以下单页实时显示的套餐与价格为准。
 
 ---
 
@@ -129,7 +129,7 @@ OpenAI 个人付费档目前公开对照的是 **Go / Plus / Pro**（另有团�
 
 1. 在平台选择与你决策一致的套餐页（Go / Plus 月付或年付 / Pro），核对**套餐名**与**时长**。
 2. 用支付宝或微信完成支付；填写用于查单的手机号或邮箱。
-3. 按页面领取卡密或进入开通流程；可用[订单号查询开通进度](https://gpt20x.com/query)。
+3. 按页面领取卡密或进入开通流程；可用订单号查询开通进度。
 4. 兑换/提交时确认当前登录的是**要开通的那个 ChatGPT 账号**。
 5. 等待处理完成；**同一卡密不要反复狂点提交**。
 6. 刷新或重登 ChatGPT，核对会员标识。
@@ -210,4 +210,4 @@ Pro 适合高强度场景，并不自动等于「所有人都该开」。若你�
 
 ---
 
-*最后更新：2026-11-07*　｜　[返回教程首页](README.md)
+*最后更新：2026-11-07*　｜　[返回教程首页](README.md)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理

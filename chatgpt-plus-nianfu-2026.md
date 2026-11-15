@@ -51,12 +51,12 @@ description: chatgpt plus 年付前先看这篇：OpenAI 官方 Plus 只有月�
 | 价格变动 | 官方可调价，按新价扣 | 已付的一年价格锁定 |
 | 售后找谁 | OpenAI 支持 | 卖你年付的平台 |
 
-GPT20X 的公开页面（以下单页实时显示为准）：
+没有境外卡时，可以通过 [GPT充值](https://gpt20x.com/chatgpt-plus) 用支付宝或微信开通 Plus 年付，公开页面以下单页实时显示为准：
 
-- [Plus 年付页](https://gpt20x.com/ChatGPTPlusYear)：写明「充值失败 · 支持退款」，价格见页面；
-- [Plus 月付页](https://gpt20x.com/ChatGPTPlus2)：写明「充值失败 · 支持退款」、可下载报销收据、企业可对公批量，价格见页面；
+- Plus 年付页：写明「充值失败 · 支持退款」，价格见页面；
+- Plus 月付页：写明「充值失败 · 支持退款」、可下载报销收据、企业可对公批量，价格见页面；
 - 首页写明「无需海外信用卡，微信 / 支付宝直接开通」「全程无需提供账号密码」「30 天质保服务」；
-- [充值说明](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)写明其自助充值订单**通常是单次购买、不会默认连续扣款**。
+- 充值说明写明其自助充值订单**通常是单次购买、不会默认连续扣款**。
 
 一句话：**年付是向平台买「一年的省心」，你承担的是平台这一年的履约能力。**
 
@@ -87,9 +87,9 @@ GPT20X 的公开页面（以下单页实时显示为准）：
 
 **风险 1：一年里套餐内容可能变。** 年付锁住的是你付的钱，锁不住 OpenAI 的套餐权益。就在 2026 年，Plus 的模型、额度规则变了好几次：Pro 档位多次调整，从 2026 年 12 月起 Plus 等套餐的额度还会在 ChatGPT 和 Codex 之间共享（见 [Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)）。官方帮助页也写明模型和限额会随时间变化、以模型选择器为准。年付等于把「这一年 Plus 变成什么样」的风险提前接下来了。
 
-**风险 2：售后期限和年付期限不一定一样长。** GPT20X 首页写的是「30 天质保」「有效期内因我方原因失效免费更换」；价格指南里写的是充值成功后 30 天内出现掉订阅等问题，核实后按剩余天数退差价或补足服务；[售后政策](https://gpt20x.com/help)则写明虚拟商品发货后原则上不接受无理由退款、请在 24 小时内激活核验。**对一年期商品，第 31 天到第 365 天出问题怎么处理，公开页面没有逐条写清，下单前一定要问客服并保留聊天记录。**
+**风险 2：售后期限和年付期限不一定一样长。** GPT20X 首页写的是「30 天质保」「有效期内因我方原因失效免费更换」；价格指南里写的是充值成功后 30 天内出现掉订阅等问题，核实后按剩余天数退差价或补足服务；售后政策则写明虚拟商品发货后原则上不接受无理由退款、请在 24 小时内激活核验。**对一年期商品，第 31 天到第 365 天出问题怎么处理，公开页面没有逐条写清，下单前一定要问客服并保留聊天记录。**
 
-**风险 3：中途想升 Pro。** 用了几个月发现 Plus 额度不够、想升 Pro，年付剩下的天数怎么算是关键。GPT20X 常见问题里有「从 Plus 升级到 Pro，剩余天数怎么处理？」这一条，买年付前先去 [常见问题页](https://gpt20x.com/faq) 看答案或直接问客服。会用到大量 Codex 的人，先看[《Codex 代充前必读》](https://amber-moose-14.github.io/chatgpt-daichong-guide/codex-daichong-yongliang-kaitong-2026.html)估一下用量，再决定要不要锁一年 Plus。
+**风险 3：中途想升 Pro。** 用了几个月发现 Plus 额度不够、想升 Pro，年付剩下的天数怎么算是关键。GPT20X 常见问题里有「从 Plus 升级到 Pro，剩余天数怎么处理？」这一条，买年付前先去常见问题页看答案或直接问客服。会用到大量 Codex 的人，先看[《Codex 代充前必读》](https://amber-moose-14.github.io/chatgpt-daichong-guide/codex-daichong-yongliang-kaitong-2026.html)估一下用量，再决定要不要锁一年 Plus。
 
 **风险 4：账号本身出问题。** 售后政策写明，因个人原因（转借他人、泄露密码、多人共用等）导致的封禁或受限，平台不负责。年付周期越长，账号在这一年里的安全越重要：不要共享账号，开好两步验证。
 
@@ -136,7 +136,7 @@ GPT20X 的公开页面（以下单页实时显示为准）：
 - **先查旧订阅**：在 Apple / Google Play 或官网还有 Plus 自动续费的，先取消，避免年付期间重复扣费（方法见[《ChatGPT 订阅怎么管》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-dingyue-guanli-quxiao-2026.html)）；
 - **开通后核对**：Settings → Account 显示 Plus，记下开始日期；兑换细节见[《GPT 代充卡密怎么兑换？》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)；
 - **在日历里设提醒**：第 25 天（质保期结束前）检查一次状态，之后每月看一次；到期前 7 天决定续年付、改月付还是换档；
-- **出问题先查订单**：带订单号到[订单查询页](https://gpt20x.com/query)看状态，再联系客服（每天 8:00–24:00）；
+- **出问题先查订单**：带订单号到订单查询页看状态，再联系客服（每天 8:00–24:00）；
 - **自己付款被拒时**：排查方法见[《Your card was declined 怎么办》](https://amber-moose-14.github.io/chatgpt-daichong-guide/card-declined-fix.html)。
 
 ---
@@ -172,7 +172,7 @@ GPT20X 的公开页面（以下单页实时显示为准）：
 Business 是面向团队工作区的套餐，计费、席位和管理方式都和个人 Plus 不同，不是「个人 Plus 年付」的替代品，具体以 [ChatGPT 定价页](https://chatgpt.com/pricing/) 为准。
 
 **Q：年付和月付开通流程一样吗？**  
-基本一样：选「Plus 年付」下单、支付宝或微信付款、拿到订单兑换码后按[开通流程说明](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)在自助页验证并核对套餐名是「年付」，提交后不要重复使用同一个兑换码。
+基本一样：选「Plus 年付」下单、支付宝或微信付款、拿到订单兑换码后按开通流程说明在自助页验证并核对套餐名是「年付」，提交后不要重复使用同一个兑换码。
 
 ---
 
@@ -183,10 +183,10 @@ Business 是面向团队工作区的套餐，计费、席位和管理方式都�
 - [OpenAI 帮助中心：Canceling your ChatGPT subscription](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription)（取消只停止续费、不自动退款，需提前 24 小时）
 - [OpenAI 帮助中心：How do I request a refund for my ChatGPT subscription?](https://help.openai.com/en/articles/7232895-how-do-i-request-a-refund-for-my-chatgpt-subscription)（付款一般不可退、7 天内酌情退款条件）
 - [OpenAI 帮助中心：Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)（ChatGPT 与 Codex 额度规则）
-- GPT20X 首页、[Plus 年付页](https://gpt20x.com/ChatGPTPlusYear)、[Plus 月付页](https://gpt20x.com/ChatGPTPlus2)、[售后政策](https://gpt20x.com/help)、[价格指南](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)（开通页与售后说明，2026-11-14 核对）
+- GPT20X 首页、Plus 年付页、Plus 月付页、售后政策、价格指南（开通页与售后说明，2026-11-14 核对）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、额度和政策会变化，请以 OpenAI 帮助中心、账号内显示和下单页为准。
 
 ---
 
-*最后更新：2026-11-12*　｜　[返回教程首页](README.md)
+*最后更新：2026-11-12*　｜　[返回教程首页](README.md)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理

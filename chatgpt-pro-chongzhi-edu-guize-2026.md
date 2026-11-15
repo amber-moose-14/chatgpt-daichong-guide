@@ -129,7 +129,7 @@ Pro 的月费是 Plus 的好几倍，很多人买之前只看了一句「额度�
 - 订阅还在有效期内的，**不需要取消再重订**就能拿到新额度；
 - 更新后的 Pro 200 **依然不含 Ultrafast**。
 
-GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[GPT20X：Pro 额度翻倍整理](https://gpt20x.com/blog/chatgpt-pro-usage-doubled-codex-recharge-2026)）。注意：网上 9 月底的旧文章（包括一些「老用户保留旧额度到 10 月 29 日」的说法）**已经过时**，以帮助中心当前版本为准。
+GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布。注意：网上 9 月底的旧文章（包括一些「老用户保留旧额度到 10 月 29 日」的说法）**已经过时**，以帮助中心当前版本为准。
 
 ---
 
@@ -145,15 +145,15 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 
 ## 8. 国内 gpt pro 充值：对照与开通步骤
 
-没有境外信用卡时，常见做法是通过代开通平台用支付宝 / 微信付款，把 Pro 开到**自己的账号**。官方月费是 Pro 100 $100、Pro 200 $200、Pro 500 $500，均为月付、无年付。国内开通以 GPT20X 结算页实时显示为准：
+没有境外信用卡时，可以通过 [ChatGPT充值](https://gpt20x.com/) 用支付宝或微信把 Pro 开到**自己的账号**。官方月费是 Pro 100 $100、Pro 200 $200、Pro 500 $500，均为月付、无年付。国内开通以结算页实时显示为准：
 
 | 官方档位 | 官方月费 | 开通页 |
 |---|---|---|
-| Pro 100 | $100 | [Pro 100 充值页](https://gpt20x.com/ChatGPTPro5x) |
-| Pro 200 | $200 | [Pro 200 充值页](https://gpt20x.com/ChatGPTPro20x) |
-| Pro 500 | $500 | [Pro 500 充值页](https://gpt20x.com/ChatGPTPro500) |
+| Pro 100 | $100 | 对应下单页 |
+| Pro 200 | $200 | 对应下单页 |
+| Pro 500 | $500 | 对应下单页 |
 
-三档放在一起看，可以打开 [GPT20X Pro 充值总览](https://gpt20x.com/pro)。页面写明的服务说明包括：支付失败支持退款、可在订单查询页下载收款凭证、企业可联系客服对公结算与批量开通、客服时间 8:00–24:00。
+三档放在一起看时，页面写明的服务说明包括：支付失败支持退款、可在订单查询页下载收款凭证、企业可联系客服对公结算与批量开通、客服时间 8:00–24:00。
 
 **开通步骤（示例）：**
 
@@ -161,7 +161,7 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 2. **打开对应档位页**，核对**档位名**（Pro 100 / 200 / 500）和**时长**；需要报销的，确认是否勾选开票，以及开票后的结算金额。
 3. **填写联系方式**（用于查询订单和接收结果），用支付宝或微信付款。
 4. **按页面或客服指引完成开通**；全程不要提供 ChatGPT 密码、邮箱验证码或 2FA 恢复码。
-5. 保存订单号，可在 [订单查询](https://gpt20x.com/query) 查看进度和凭证。
+5. 保存订单号，可在订单查询页查看进度和凭证。
 6. **开通后核对**：登录**自己的**账号 → Settings → My Plan 看档位名；Settings → Usage 看额度；Pro 500 用户再去 Work / Codex 的模型选择器确认能看到 Ultrafast。
 
 主要冲着 Codex 开 Pro 的，先看[《Codex 代充前必读》](https://amber-moose-14.github.io/chatgpt-daichong-guide/codex-daichong-yongliang-kaitong-2026.html)估一下 Plus 够不够。卡密类商品的兑换细节见[《GPT 代充卡密怎么兑换》](https://amber-moose-14.github.io/chatgpt-daichong-guide/gpt-daichong-kami-duihuan-2026.html)；挑平台、防骗看[《ChatGPT 代充怎么选》](https://amber-moose-14.github.io/chatgpt-daichong-guide/choose-daichong-platform.html)。
@@ -178,7 +178,7 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 - **退款**：取消不会自动退款；退款获批后，对应的使用权通常会结束。
 - **账号共享**：官方明确禁止共享账号凭据、转售访问权限，违规可能被限制使用。合租号、共享号不属于正规开通。
 
-通过平台开通的，换档或续费前**先问清楚平台的规则**（例如剩余天数怎么处理），GPT20X 的相关说明可以在 [常见问题](https://gpt20x.com/faq) 里搜「Pro」「续费」。
+通过平台开通的，换档或续费前**先问清楚平台的规则**（例如剩余天数怎么处理），GPT20X 的相关说明可以在常见问题里搜「Pro」「续费」。
 
 ---
 
@@ -229,11 +229,10 @@ GPT20X 博客把这次调整的时间整理为美国时间 2026-10-29 公布（[
 - [OpenAI 帮助中心：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)（三档价格、Ultrafast、额度调整、倍率、换档 / 取消 / 退款、无年付）
 - [OpenAI 帮助中心：Using Credits for Flexible Usage in ChatGPT (Personal plans)](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)（Credits 规则、共享额度）
 - [OpenAI：ChatGPT Pricing](https://openai.com/chatgpt/pricing/)（Pro 功能描述、上下文窗口）
-- [GPT20X：ChatGPT Pro 充值](https://gpt20x.com/pro)、[Pro 100](https://gpt20x.com/ChatGPTPro5x)、[Pro 200](https://gpt20x.com/ChatGPTPro20x)、[Pro 500](https://gpt20x.com/ChatGPTPro500) 公开开通页（2026-11-14 核对）
-- [GPT20X 博客：Pro 额度翻倍整理](https://gpt20x.com/blog/chatgpt-pro-usage-doubled-codex-recharge-2026)（调整公布时间）
+- GPT20X Pro 公开开通页与博客「Pro 额度翻倍整理」（调整公布时间，2026-11-14 核对）
 
 > 本文为个人整理，非 OpenAI 官方内容。价格、额度、模型和政策会变化，请以 OpenAI 帮助中心、账号内显示和结算页为准。
 
 ---
 
-*最后更新：2026-11-08*　｜　[返回教程首页](https://amber-moose-14.github.io/chatgpt-daichong-guide/)
+*最后更新：2026-11-08*　｜　[返回教程首页](https://amber-moose-14.github.io/chatgpt-daichong-guide/)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理
