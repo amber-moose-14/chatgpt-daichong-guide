@@ -8,9 +8,9 @@
 
 ## 🆕 最近更新
 
+- 2026-11-15 · [ChatGPT升级Pro怎么算：Go / Plus / Pro 换档、降级、退不退差价全流程](chatgpt-shengji-pro-huandang-2026.md)
 - 2026-11-14 · [ChatGPT充值能用Wallet吗？ChatGPT Wallet、订阅付款、余额、Credits 一文分清](chatgpt-chongzhi-wallet-qianbao-2026.md)
 - 2026-11-13 · [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
-- 2026-11-12 · [ChatGPT Plus 年付值不值：官方有没有年付、平台年付怎么算、退款升级续费风险 + 适合谁](chatgpt-plus-nianfu-2026.md)
 
 ## 📂 教程索引
 
@@ -32,6 +32,7 @@
 - [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
 
 ### ✅ 开通后
+- [ChatGPT升级Pro怎么算：Go / Plus / Pro 换档、降级、退不退差价全流程](chatgpt-shengji-pro-huandang-2026.md)
 - [ChatGPT 订阅怎么管：订阅在哪个平台、怎么看状态、取消与防重复扣费 + 国内开通订阅](chatgpt-dingyue-guanli-quxiao-2026.md)
 - [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
 
