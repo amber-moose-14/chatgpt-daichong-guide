@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ChatGPT Go 充值前必读：Go 是什么、多少钱、够不够用、和 Plus 差在哪 + 国内开通
-description: ChatGPT Go 充值前先看这篇：ChatGPT Go 包含什么、不包含什么（不含 GPT-5.6 Sol 和旧模型）、官方怎么计费、和 Plus 的区别、谁适合 Go、从 Plus / Pro 降到 Go 会怎样，以及国内用支付宝 / 微信做 chatgpt 充值开通 Go 会员的步骤与自查清单。
+description: ChatGPT Go 充值前先看这篇：ChatGPT Go 包含什么、不包含什么、官方怎么计费、和 Plus 的区别、谁适合 Go、从 Plus / Pro 降到 Go 会怎样，以及国内用支付宝 / 微信做 chatgpt 充值开通 Go 会员的步骤与自查清单。
 ---
 
 # ChatGPT Go 充值前必读：Go 是什么、多少钱、够不够用、和 Plus 差在哪 + 国内开通

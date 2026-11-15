@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ChatGPT Pro 充值前必读：Pro 100/200/500 额度怎么算、Ultrafast 与 Credits 规则 + 国内开通
-description: ChatGPT Pro 充值前先看懂额度：Pro 100/200/500 的 Work 与 Codex 额度、GPT-6 Pro 周消息上限、Fast/Ultrafast 消耗倍率、Credits 规则、换档与取消，以及国内 gpt pro 充值 / 代充的价格与核对步骤。
+description: ChatGPT Pro 充值前先看懂额度：Pro 100/200/500 的 Work 与 Codex 额度、Pro 的周消息上限、Fast/Ultrafast 消耗倍率、Credits 规则、换档与取消，以及国内 gpt pro 充值 / 代充的价格与核对步骤。
 ---
 
 # ChatGPT Pro 充值前必读：Pro 100/200/500 额度怎么算、Ultrafast 与 Credits 规则 + 国内开通
