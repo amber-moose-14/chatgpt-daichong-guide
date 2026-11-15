@@ -1,3 +1,9 @@
+---
+layout: default
+title: ChatGPT 提示 Your card was declined 怎么办？原因、排查步骤与解决方法（完整版）
+description: ChatGPT付款被拒或提示 Your card was declined 时怎么排查？说明常见原因、处理步骤和自己付款失败的解决方法，由 GPT20X 整理。
+---
+
 # ChatGPT 提示 Your card was declined 怎么办？原因、排查步骤与解决方法（完整版）
 
 ![ChatGPT 付款被拒怎么办](images/card-declined-cover.png)

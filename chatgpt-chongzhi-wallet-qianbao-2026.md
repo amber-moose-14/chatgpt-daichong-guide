@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ChatGPT充值能用Wallet吗？一文分清｜GPT20X
-description: chatgpt充值和 11 月 13 日上线的 ChatGPT Wallet 是两回事：Wallet 是 Pro 用户的 dot 智能体替你网购时用的付款工具，目前只面向美国 Pro 用户和美国信用卡，存进去的卡和订阅付款方式、礼品卡余额、Credits 互相独立。本文用官方说明讲清 Wallet 是什么、谁能用、和 chatgpt会员订阅付款的区别、出问题找谁，以及国内没有信用卡怎么开通。
+description: ChatGPT充值和 11 月 13 日上线的 ChatGPT Wallet 是两回事：Wallet 是 Pro 用户的 dot 智能体替你网购时用的付款工具，目前只面向美国 Pro 用户和美国信用卡，存进去的卡和订阅付款方式、礼品卡余额、Credits 互相独立。本文用官方说明讲清 Wallet 是什么、谁能用、和 chatgpt会员订阅付款的区别、出问题找谁，以及国内没有信用卡怎么开通。
 ---
 
 # ChatGPT充值能用Wallet吗？一文分清｜GPT20X

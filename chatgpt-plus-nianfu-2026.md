@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ChatGPT Plus 年付值不值：官方有没有年付、平台年付怎么算、退款升级续费风险 + 适合谁
-description: chatgpt plus 年付前先看这篇：OpenAI 官方 Plus 只有月付、没有年付；国内代开通的 Plus 年付是平台预付商品，要按 30 天一期而不是 12 个自然月来和月付比、一年里套餐规则变化、退款与升级 Pro 的风险，以及哪些人适合 chatgpt plus 充值选年付、哪些人应该继续月付。
+description: ChatGPT Plus 年付前先看这篇：OpenAI 官方 Plus 只有月付、没有年付；国内代开通的 Plus 年付是平台预付商品，要按 30 天一期而不是 12 个自然月来和月付比、一年里套餐规则变化、退款与升级 Pro 的风险，以及哪些人适合 chatgpt plus 充值选年付、哪些人应该继续月付。
 ---
 
 # ChatGPT Plus 年付值不值：官方有没有年付、平台年付怎么算、退款升级续费风险 + 适合谁

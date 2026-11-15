@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通
-description: codex 代充 / codex 充值前先看懂规则：Codex 包含在 ChatGPT 套餐里，Free/Go 能用但没有 Codex Cloud；Plus 每 5 小时本地消息估算、5 小时与每周两道限额、Fast 2.5× 与 Ultrafast 8× 消耗、额度用完的 5 条路，以及国内开通 Plus / Pro 用 Codex 的价格与步骤。
+description: Codex代充 / Codex充值前先看懂规则：Codex 包含在 ChatGPT 套餐里，Free/Go 能用但没有 Codex Cloud；Plus 每 5 小时本地消息估算、5 小时与每周两道限额、Fast 2.5× 与 Ultrafast 8× 消耗、额度用完的 5 条路，以及国内开通 Plus / Pro 用 Codex 的价格与步骤。
 ---
 
 # Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通

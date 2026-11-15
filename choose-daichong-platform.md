@@ -1,3 +1,9 @@
+---
+layout: default
+title: ChatGPT 代充怎么选？靠谱代充平台的 8 个判断标准 + 防骗指南
+description: ChatGPT代充怎么选平台？本文给出靠谱代充平台的 8 个判断标准和防骗要点，帮你在开通前避开常见风险，由 GPT20X 整理。
+---
+
 # ChatGPT 代充怎么选？靠谱代充平台的 8 个判断标准 + 防骗指南
 
 ![ChatGPT 代充怎么选](images/choose-daichong-cover.png)
