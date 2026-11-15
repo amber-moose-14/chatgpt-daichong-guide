@@ -39,6 +39,18 @@
 ### 🛠️ 自己付款遇到问题
 - [ChatGPT 提示 Your card was declined 怎么办？](card-declined-fix.md)
 
+## 在线工具
+
+- [ChatGPT代充指南](https://huggingface.co/spaces/gpt20x/chatgpt-daichong) — 会员怎么选、国内代充开通与报错速查
+- [ChatGPT Pro怎么选](https://huggingface.co/spaces/gpt20x/chatgpt-pro) — Pro 100/200/500 档位选择器与避坑清单
+- [ChatGPT报错大全](https://huggingface.co/spaces/gpt20x/chatgpt-baocuo) — 付款被拒、登录失败、开通后异常速查
+- [ChatGPT续费与换档](https://huggingface.co/spaces/gpt20x/chatgpt-xufei) — 升级降级何时生效、本期费用怎么算
+- [ChatGPT Go够不够用](https://huggingface.co/spaces/gpt20x/chatgpt-go) — 七题自测，对照 Plus / Pro 是否更合适
+- [ChatGPT会员权益对照](https://huggingface.co/spaces/gpt20x/chatgpt-huiyuan) — Free / Go / Plus / Pro 功能对照与选档
+- [Codex用量与开通](https://huggingface.co/spaces/gpt20x/codex-daichong) — 要不要单独买、额度怎么估
+- [ChatGPT Plus月付与年付](https://huggingface.co/spaces/gpt20x/chatgpt-plus) — 按天对照续费成本
+- [ChatGPT充值怎么付](https://huggingface.co/spaces/gpt20x/chatgpt-chongzhi-zhifu) — 支付宝、微信、银行卡与 Wallet 怎么付
+
 ## 说明
 
 - 教程会随 ChatGPT 页面和政策变化持续修订，文末标注最后更新时间
