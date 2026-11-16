@@ -8,9 +8,9 @@
 
 ## 🆕 最近更新
 
+- 2026-11-16 · [ChatGPT礼品卡怎么用？官方礼品卡、苹果礼品卡、赠送额度三种卡一次分清](chatgpt-lipinka-2026.md)
 - 2026-11-15 · [ChatGPT升级Pro怎么算：Go / Plus / Pro 换档、降级、退不退差价全流程](chatgpt-shengji-pro-huandang-2026.md)
 - 2026-11-14 · [ChatGPT充值能用Wallet吗？ChatGPT Wallet、订阅付款、余额、Credits 一文分清](chatgpt-chongzhi-wallet-qianbao-2026.md)
-- 2026-11-13 · [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
 
 ## 📂 教程索引
 
@@ -28,6 +28,7 @@
 - [Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通](codex-daichong-yongliang-kaitong-2026.md)
 
 ### 💰 按支付方式
+- [ChatGPT礼品卡怎么用？官方礼品卡、苹果礼品卡、赠送额度三种卡一次分清](chatgpt-lipinka-2026.md)
 - [ChatGPT充值能用Wallet吗？ChatGPT Wallet、订阅付款、余额、Credits 一文分清](chatgpt-chongzhi-wallet-qianbao-2026.md)
 - [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
 
