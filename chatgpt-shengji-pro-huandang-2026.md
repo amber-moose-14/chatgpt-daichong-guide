@@ -53,7 +53,7 @@ ChatGPT升级Pro、在 Pro 100 / 200 / 500 之间换档，或者从 Plus 降回 
 - 只是偶尔 Codex、Work 额度用完：Plus 和 Pro 在账户支持购买时，可以在 设置 → 用量 里买 Credits 补量，先用套餐内额度、再扣 Credits；
 - 想要 Ultrafast：Pro 三档里**只有 Pro 500** 有，Pro 100 / 200 买再多 Credits 也解锁不了；
 - 想用 dot（全天候智能体）：个人套餐里定价页只把它列在 Pro 下；
-- 日常聊天：Plus 的日常模型默认是 GPT-6（由 GPT-6 Sol 驱动），Work 和 Codex 里可以用 GPT-6.1 Sol 和 GPT-6 Astra，GPT-5.6 Sol 属于上一代可选模型；Pro 多出来的主要是 GPT-6 Astra 驱动的专业推理和更大的用量。
+- 日常聊天：Plus 的日常模型默认是 GPT-6（由 GPT-6 Sol 驱动），Work 和 Codex 里可以用 GPT-6.1 Sol 和 GPT-6 Astra；Pro 多出来的主要是 GPT-6 Astra 驱动的专业推理和更大的用量。
 
 想清楚这三点，再决定升哪一档、要不要现在升。
 

@@ -146,7 +146,7 @@ ChatGPT 对账号使用地区有要求，开通前建议先看一下 OpenAI 官�
 不能。官方写明 Wallet 里的卡和订阅付款方式分开管理，会员费仍按你订阅时的渠道扣。
 
 **Q：我是 Plus 用户，能用 Wallet 吗？**  
-目前不能。Wallet 只在和 dot 的对话里使用，而 dot 和 Wallet 目前面向符合条件的 Pro 用户。Plus 的日常聊天默认是 GPT-6（由 GPT-6 Sol 驱动），Work 和 Codex 里可以用 GPT-6.1 Sol 和 GPT-6 Astra，GPT-5.6 Sol 属于上一代可选模型；模型和额度以账号内显示为准。
+目前不能。Wallet 只在和 dot 的对话里使用，而 dot 和 Wallet 目前面向符合条件的 Pro 用户。Plus 的日常聊天默认是 GPT-6（由 GPT-6 Sol 驱动），Work 和 Codex 里可以用 GPT-6.1 Sol 和 GPT-6 Astra；模型和额度以账号内显示为准。
 
 **Q：Wallet 会不会把我的真实卡号给商家？**  
 官方说不会。批准后生成的是支付令牌（一个替代卡号），所以收据上的卡号可能和实体卡不一样。

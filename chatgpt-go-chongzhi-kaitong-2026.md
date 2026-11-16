@@ -8,7 +8,7 @@ description: ChatGPT Go 充值前先看这篇：ChatGPT Go 包含什么、不包
 
 ![ChatGPT Go 充值前必读封面](images/chatgpt-go-chongzhi-kaitong-2026-cover.png)
 
-**简短回答：** **ChatGPT Go** 是 OpenAI 的**低价付费档**，定位在 Free 和 Plus 之间：日常文字聊天和 Free 一样不限次数，但作图、传文件、数据分析的额度比 Free 高，记忆和上下文更长，还能用 Projects、任务和自定义 GPT。它**不包含 GPT-5.6 Sol**，也**不能用 4o 等旧模型**；官方**按月自动扣费，没有年付**，美国价为 $8/月、部分国家是本地化定价，实际以结账页为准。如果你主要是「每天聊聊、偶尔作图和看文件」，Go 往往够用；要写长文、做深度研究、经常写代码，直接看 Plus 更省事。以上以 [OpenAI 帮助中心：What is ChatGPT Go?](https://help.openai.com/en/articles/11989085-what-is-chatgpt-go) 为准（2026-11-11 核对）。
+**简短回答：** **ChatGPT Go** 是 OpenAI 的**低价付费档**，定位在 Free 和 Plus 之间：日常文字聊天和 Free 一样不限次数，但作图、传文件、数据分析的额度比 Free 高，记忆和上下文更长，还能用 Projects、任务和自定义 GPT。它**不包含 Plus 的高级推理模型**，也**不能用 4o 等旧模型**；官方**按月自动扣费，没有年付**，美国价为 $8/月、部分国家是本地化定价，实际以结账页为准。如果你主要是「每天聊聊、偶尔作图和看文件」，Go 往往够用；要写长文、做深度研究、经常写代码，直接看 Plus 更省事。以上以 [OpenAI 帮助中心：What is ChatGPT Go?](https://help.openai.com/en/articles/11989085-what-is-chatgpt-go) 为准（2026-11-11 核对）。
 
 ---
 
@@ -34,7 +34,7 @@ Go 的官方定义是「低价订阅档，扩展 ChatGPT 功能的使用」。�
 可以把它理解成「**Free 的加量版**」，而不是「便宜版 Plus」。这两个说法差别很大：
 
 - 「Free 加量版」：用的模型和 Free 接近，主要是**额度更高、记忆更长、多了 Projects 等功能**；
-- 「便宜版 Plus」：这是很多人的误会。Plus 有的高级推理模型 GPT-5.6 Sol，Go **没有**。
+- 「便宜版 Plus」：这是很多人的误会。Plus 日常聊天默认 GPT-6（由 GPT-6 Sol 驱动），Work 和 Codex 可用 GPT-6.1 Sol 和 GPT-6 Astra，这些高级推理 Go **没有**。
 
 所以买 Go 之前要先想清楚：你要的是「**用得更多**」，还是「**用得更强**」。前者 Go 合适，后者要看 Plus。
 
@@ -52,8 +52,8 @@ Go 的官方定义是「低价订阅档，扩展 ChatGPT 功能的使用」。�
 | 数据分析（Python） | ✅ 额度高于 Free | 高级数据分析用得更频繁 |
 | 记忆与上下文 | ✅ 更长 | 个性化回答更连贯 |
 | Projects、任务、自定义 GPT、Library | ✅ | 受功能开放情况和存储上限限制 |
-| Think 推理 | ✅ | 网页和手机端可用，Think 使用 **GPT-5.6 Luna** |
-| GPT-5.6 Sol | ❌ | 官方写明 Go 不包含 |
+| Think 推理 | ✅ | 网页和手机端可用（思考模式） |
+| Plus 的高级推理模型 | ❌ | 官方写明 Go 不包含 |
 | 4o 等旧模型 | ❌ | 官方写明 Go 不包含旧模型 |
 | API 额度 | ❌ | API 单独计费，和 Go 订阅无关 |
 | 部分高级产品 / 插件 | ⚠️ 视情况 | 官方说有些能力需要 Plus 或更高档 |
@@ -81,7 +81,7 @@ Go 的官方定义是「低价订阅档，扩展 ChatGPT 功能的使用」。�
 |---|---|---|---|
 | 日常文字聊天 | 不限 | 不限 | 不限（高峰期优先） |
 | 作图 / 文件 / 数据分析 | 基础额度 | 高于 Free | 再高一档（「Expanded」） |
-| 高级推理模型 | 有限 | Think（GPT-5.6 Luna），**无 Sol** | 含 GPT-5.6 Sol 等高级推理 |
+| 高级推理模型 | 有限 | Think（思考模式），**无 Sol** | 日常聊天默认 GPT-6（由 GPT-6 Sol 驱动），Work 和 Codex 可用 GPT-6.1 Sol、GPT-6 Astra |
 | 深度研究 | 有限 | 以官方为准 | 扩展额度 |
 | Codex | 以官方为准 | 以官方为准 | 扩展 Codex 用量 |
 | Projects / 自定义 GPT | 部分 | ✅ | ✅（另含定时任务等） |
@@ -101,7 +101,7 @@ Go 的官方定义是「低价订阅档，扩展 ChatGPT 功能的使用」。�
 
 **应该直接看 Plus 的人：**
 
-- 要写论文、长报告，需要 GPT-5.6 Sol 这类高级推理；
+- 要写论文、长报告，需要 Plus 的高级推理模型；
 - 经常用深度研究、定时任务；
 - 要用 Codex 写代码，或者想用 ChatGPT Work；
 - 依赖某个旧模型（Go 不提供旧模型）。
@@ -176,7 +176,7 @@ Go / Plus / Pro 三档的整体选型思路见[《ChatGPT 会员怎么选》](ht
 ## 9. Go 充值前自查清单
 
 - [ ] 已确认自己要的是「用得更多」而不是「用得更强」
-- [ ] 知道 Go 不含 GPT-5.6 Sol 和旧模型，日常不依赖它们
+- [ ] 知道 Go 不含 Plus 的高级推理模型和旧模型，日常不依赖它们
 - [ ] 知道官方 Go 没有年付，价格以结账页为准
 - [ ] 已在 Settings → Account 确认要开通的账号邮箱
 - [ ] Apple / Google Play 上没有还在扣费的旧订阅
@@ -189,7 +189,7 @@ Go / Plus / Pro 三档的整体选型思路见[《ChatGPT 会员怎么选》](ht
 ## 10. 常见问题
 
 **Q：ChatGPT Go 和 Plus 最大的区别是什么？**  
-最大的区别是模型和深度功能。Go 有 Think（GPT-5.6 Luna）但没有 GPT-5.6 Sol，深度研究、定时任务、Codex 等扩展额度主要在 Plus。只是聊天、作图、传文件，Go 往往够用。
+最大的区别是模型和深度功能。Go 有 Think（思考模式）但没有 Plus 的高级推理模型，深度研究、定时任务、Codex 等扩展额度主要在 Plus。只是聊天、作图、传文件，Go 往往够用。
 
 **Q：Go 聊天真的不限次数吗？**  
 官方写的是「日常文字聊天不限次数」，Free 也一样；但仍受防滥用规则约束，高峰期可能临时限制。作图、文件、数据分析是有额度的，只是比 Free 高。
@@ -210,7 +210,7 @@ Go / Plus / Pro 三档的整体选型思路见[《ChatGPT 会员怎么选》](ht
 
 ## 参考来源
 
-- [OpenAI 帮助中心：What is ChatGPT Go?](https://help.openai.com/en/articles/11989085-what-is-chatgpt-go)（Go 包含与不包含的功能、Think 使用 GPT-5.6 Luna、无 Sol 和旧模型、广告测试、按月计费无年付、降级不退款、API 不含）
+- [OpenAI 帮助中心：What is ChatGPT Go?](https://help.openai.com/en/articles/11989085-what-is-chatgpt-go)（Go 包含与不包含的功能、Think 思考模式、不含 Plus 高级推理模型和旧模型、广告测试、按月计费无年付、降级不退款、API 不含）
 - [OpenAI：Introducing ChatGPT Go, now available worldwide](https://openai.com/index/introducing-chatgpt-go/)（美国价 $8/月、部分市场本地化定价）
 - [ChatGPT 定价页](https://chatgpt.com/pricing/)（Plus 在 Go 基础上增加的功能）
 - [OpenAI 帮助中心：What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)（Plus $20/月按月计费、无年付）
