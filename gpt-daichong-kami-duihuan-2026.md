@@ -46,6 +46,8 @@ description: GPT 代充付款后拿到的卡密怎么用？本文讲清卡密在
 | ChatGPT 会员订阅 | OpenAI | Plus / Go / Pro 等会员权益 | 你自己的 ChatGPT 账号 |
 | OpenAI API 余额 | OpenAI 开发者平台 | 按量调用 API | 开发者平台，与会员互不相通 |
 
+卡密也不是 OpenAI 官方礼品卡或苹果礼品卡，三种礼品卡的区别见[《ChatGPT礼品卡怎么用》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-lipinka-2026.html)。
+
 要点：**卡密只在发放它的平台有效**；**通常只能提交一次**；要和订单号一起保存，查询和售后都要用。会员权益本身以 OpenAI 官方规则为准。
 
 以 GPT20X 为例，没有境外卡时，可以通过 [GPT代充](https://gpt20x.com/) 用支付宝下单；首页写明“下单支付后自动发放卡密”，付款后在订单结果页查看，页面关掉了可以到订单查询页找回卡密和发货进度。

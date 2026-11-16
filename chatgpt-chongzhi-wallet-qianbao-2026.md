@@ -95,7 +95,7 @@ Credits 的规则见 [Using Credits for Flexible Usage](https://help.openai.com/
 目前不行。只支持美国发行的指定信用卡，借记卡不支持，虚拟卡首发也不支持。
 
 **误区 4：「ChatGPT 钱包余额」就是 Wallet。**
-不是。帮助中心里的「ChatGPT wallet balance / ChatGPT 余额」是礼品卡兑换来的美元余额，能抵扣美国账户的网页订单；ChatGPT Wallet 是 dot 的购物付款工具。中文都容易叫「钱包」，看清英文名再操作。
+不是。帮助中心里的「ChatGPT wallet balance / ChatGPT 余额」是礼品卡兑换来的美元余额，能抵扣美国账户的网页订单；ChatGPT Wallet 是 dot 的购物付款工具。中文都容易叫「钱包」，看清英文名再操作。礼品卡余额怎么兑换、能付什么，见[《ChatGPT礼品卡怎么用》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-lipinka-2026.html)。
 
 ---
 

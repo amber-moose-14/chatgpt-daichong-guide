@@ -79,7 +79,7 @@ description: Codex代充 / Codex充值前先看懂规则：Codex 包含在 ChatG
 
 ## 4. Plus 每 5 小时大概能发多少条（官方估算表）
 
-[Codex Pricing](https://chatgpt.com/codex/pricing/) 给出的 **Plus 每 5 小时本地消息**估算区间（2026-11-09 核对）：
+[Codex Pricing](https://chatgpt.com/codex/pricing/) 给出的 **Plus 每 5 小时本地消息**估算区间（2026-11-09 核对，2026-11-16 复核数值未变）：
 
 | 模型 | Plus（每 5 小时本地消息） | 适合 |
 |---|---|---|
@@ -122,7 +122,7 @@ description: Codex代充 / Codex充值前先看懂规则：Codex 包含在 ChatG
 
 ## 6. 共享额度：Codex 不是一个人在用这份额度
 
-- 在用共享额度的套餐上，**Codex、ChatGPT Work、ChatGPT for Excel、Workspace Agents 共用同一份额度和 Credits 池**（功能可用时）。在 Excel 里跑任务，也会吃掉 Codex 的额度。
+- 在用共享额度的套餐上，**Codex、ChatGPT Work、ChatGPT for Excel、Workspace Agents 共用同一份额度和 Credits 池**（功能可用时）；帮助中心 2026-11 的说明里，PowerPoint 和 Word 也会用这份额度。在 Excel 里跑任务，也会吃掉 Codex 的额度。
 - 在桌面端 Work / Codex 里用语音**发起的任务**也算这份额度；普通 Chat 的语音、图片、文件上传有各自独立的限制，**不占 Codex 额度**。
 - **12 月起的变化：** 官方预告 Plus、Pro、Business 的额度将在 **ChatGPT 与 Codex 之间共享**，按 **token** 计量，**Instant 聊天不消耗额度**，剩余额度和重置时间在 Settings → Usage 合并显示（[Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)）。具体上线后以账号显示为准。
 
