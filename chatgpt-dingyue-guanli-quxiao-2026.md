@@ -73,6 +73,8 @@ description: ChatGPT订阅管理一篇讲清：网页 / Apple / Google Play 三�
 2. 在 **Account** 里先确认登录的是不是开通订阅的那个账号（收发票的邮箱可能和 ChatGPT 账号邮箱不同）；
 3. 在 **Billing** 或 **My Plan** 里看当前套餐、可切换的套餐和账单。
 
+网页订阅的发票在哪下载、抬头和税号怎么改，见[《ChatGPT充值发票怎么开》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-chongzhi-fapiao-2026.html)。
+
 （来源：[What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) 的 Billing and Invoices 部分、[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) 的 Managing your subscription 部分）
 
 **看「下次扣费日」和「是否还会自动续」：** 要回到**付款的那个平台**看。官方原话是「在给你开账单的平台上确认订阅不再续订」。iPhone 上如果订阅详情里**没有取消按钮、而是显示一行红色的到期日期**，说明它已经取消了。

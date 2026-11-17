@@ -94,6 +94,8 @@ description: ChatGPT代充用支付宝、微信付款一篇讲清：OpenAI 官�
 
 **发票：** 首页常见问题写明 Pro 套餐下单时选择发票选项即可。需要增值税普通发票时，结算金额可能含税费，开票价与不开票价不一样，付款前看清结算页。企业批量采购可联系客服对公结算。
 
+官方网页订阅、App 内购和第三方开通各自拿到什么票据、能不能报销，见[《ChatGPT充值发票怎么开》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-chongzhi-fapiao-2026.html)。
+
 年付和月付怎么选，见[《ChatGPT Plus 年付值不值》](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-plus-nianfu-2026.html)。
 
 ---
