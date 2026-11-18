@@ -45,6 +45,7 @@
 
 ## 在线工具
 
+- [chatgpt会员 GPT-6.2套餐对照](https://huggingface.co/spaces/gpt20x/chatgpt-xinwen) — 哪些套餐能在「工作」和 Codex 用新模型、极速怎么分档
 - [ChatGPT代充指南](https://huggingface.co/spaces/gpt20x/chatgpt-daichong) — 会员怎么选、国内代充开通与报错速查
 - [ChatGPT Pro怎么选](https://huggingface.co/spaces/gpt20x/chatgpt-pro) — Pro 100/200/500 档位选择器与避坑清单
 - [ChatGPT报错大全](https://huggingface.co/spaces/gpt20x/chatgpt-baocuo) — 付款被拒、登录失败、开通后异常速查
