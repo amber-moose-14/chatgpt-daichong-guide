@@ -8,7 +8,7 @@ description: ChatGPT礼品卡怎么用？OpenAI 官方礼品卡只限美国美�
 
 ![ChatGPT礼品卡三种类型对照封面](images/chatgpt-lipinka-2026-cover.png)
 
-ChatGPT礼品卡最近被搜得很多，但大家说的「礼品卡」其实是三种不同的东西：**OpenAI 官方的 ChatGPT 礼品卡**、**苹果的 Apple Gift Card（App Store 充值卡）**，以及 ChatGPT 里新出的**赠送额度（Gifting credits）**。三者能付的东西不同、能用的地区不同、出问题找的人也不同。买错了，钱基本退不回来。下面全部按 OpenAI 帮助中心和 Apple 支持页的原文整理（2026-11-16 核对），没有官方说法的地方会直接写「以页面显示为准」。
+ChatGPT礼品卡最近被搜得很多，但大家说的「礼品卡」其实是三种不同的东西：**OpenAI 官方的 ChatGPT 礼品卡**、**苹果的 Apple Gift Card（App Store 充值卡）**，以及 ChatGPT 里新出的**赠送额度（Gifting credits）**。三者能付的东西不同、能用的地区不同、出问题找的人也不同。买错了，钱基本退不回来。下面全部按 OpenAI 帮助中心和 Apple 支持页的原文整理（2026-11-16 核对），没有官方说法的地方会直接写「以页面显示为准」。如果礼品卡走不通、只是想用人民币把套餐开到自己账号上，也可以先了解 [ChatGPT代充](https://gpt20x.com/) 这类开通方式。
 
 ---
 
