@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-18 · [chatgpt会员能用GPT-6.2吗？只在「工作」和 Codex 开放、不会加入普通聊天，附极速分档对照](chatgpt-huiyuan-gpt6-2-2026.md)
 - 2026-11-17 · [ChatGPT充值发票怎么开？网页订阅、App Store、Google Play、第三方开通四种渠道找票与报销清单](chatgpt-chongzhi-fapiao-2026.md)
 - 2026-11-16 · [ChatGPT礼品卡怎么用？官方礼品卡、苹果礼品卡、赠送额度三种卡一次分清](chatgpt-lipinka-2026.md)
 - 2026-11-15 · [ChatGPT升级Pro怎么算：Go / Plus / Pro 换档、降级、退不退差价全流程](chatgpt-shengji-pro-huandang-2026.md)
@@ -33,6 +34,7 @@
 - [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
 
 ### ✅ 开通后
+- [chatgpt会员能用GPT-6.2吗？Work 和 Codex 套餐对照、极速规则和找不到模型时怎么办](chatgpt-huiyuan-gpt6-2-2026.md)
 - [ChatGPT充值发票怎么开？网页订阅、App Store、Google Play、第三方开通四种渠道找票与报销清单](chatgpt-chongzhi-fapiao-2026.md)
 - [ChatGPT升级Pro怎么算：Go / Plus / Pro 换档、降级、退不退差价全流程](chatgpt-shengji-pro-huandang-2026.md)
 - [ChatGPT 订阅怎么管：订阅在哪个平台、怎么看状态、取消与防重复扣费 + 国内开通订阅](chatgpt-dingyue-guanli-quxiao-2026.md)
