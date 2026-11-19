@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-19 · [chatgpt会员额度12月会和Codex共享吗？Plus、Pro、Business 在 ChatGPT 与 Codex 之间共享，即时聊天不计入](chatgpt-huiyuan-codex-gongxiang-2026.md)
 - 2026-11-18 · [chatgpt会员能用GPT-6.2吗？只在「工作」和 Codex 开放、不会加入普通聊天，附极速分档对照](chatgpt-huiyuan-gpt6-2-2026.md)
 - 2026-11-17 · [ChatGPT充值发票怎么开？网页订阅、App Store、Google Play、第三方开通四种渠道找票与报销清单](chatgpt-chongzhi-fapiao-2026.md)
 - 2026-11-16 · [ChatGPT礼品卡怎么用？官方礼品卡、苹果礼品卡、赠送额度三种卡一次分清](chatgpt-lipinka-2026.md)
@@ -26,6 +27,7 @@
 - [ChatGPT Plus 充值怎么选：谁适合月付、额度共享后怎么看、国内开通注意点](chatgpt-plus-chongzhi-yuefu-2026.md)
 
 ### 💻 Codex
+- [chatgpt会员额度12月会和Codex共享吗？哪些套餐受影响、即时聊天是否计入、额度用完怎么办](chatgpt-huiyuan-codex-gongxiang-2026.md)
 - [Codex 代充前必读：Codex 要不要单独买、各套餐用量怎么估、额度用完怎么办 + 国内开通](codex-daichong-yongliang-kaitong-2026.md)
 
 ### 💰 按支付方式
