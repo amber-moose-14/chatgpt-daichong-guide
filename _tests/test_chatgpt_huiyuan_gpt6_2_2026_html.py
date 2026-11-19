@@ -221,7 +221,7 @@ class GPT62ArticleHTMLTest(unittest.TestCase):
         self.assertEqual(len(source_lists), 1, self.html[start:end])
         self.assertEqual(len(source_lists[0]["items"]), 2)
         self.assertIn("在「工作」和 Codex 中向 Plus、Pro、Enterprise、Edu 开放", source_lists[0]["items"][0])
-        self.assertIn("2026-11-19 核对", source_lists[0]["items"][1])
+        self.assertIn("2026-11-18 核对", source_lists[0]["items"][1])
         self.assertNotIn("Pro 无 5 小时", section)
         for marker in REMOVED_SOURCE_MARKERS:
             self.assertNotIn(marker, self.raw)
@@ -243,12 +243,15 @@ class GPT62ArticleHTMLTest(unittest.TestCase):
         for phrase in FORBIDDEN_PHRASES:
             self.assertNotIn(phrase, combined)
         self.assertIn(
-            "Plus 和 Pro 在「工作」和 Codex 都有 5 小时窗口，也有每周限制",
+            "用量窗口和限制可能因套餐及产品变化；剩余量与重置时间以「设置 → 用量」和英文帮助中心为准。",
             self.raw,
         )
+        self.assertNotIn("Plus 和 Pro 在「工作」和 Codex 都有 5 小时窗口", self.raw)
+        self.assertNotIn("都有每周限制", self.raw)
         self.assertIn("非 OpenAI 官方内容", self.html)
-        self.assertIn("最后更新：2026-11-19", self.raw)
-        self.assertNotIn("2026-11-18 核对", self.raw)
+        self.assertIn("最后更新：2026-11-19（修订日期）", self.raw)
+        self.assertIn("2026-11-18 核对", self.raw)
+        self.assertNotIn("2026-11-19 核对", self.raw)
         self.assertNotIn("最后更新：2026-11-18", self.raw)
         self.assertNotIn("我自己", self.raw)
         self.assertNotIn("亲测", self.raw)
@@ -313,7 +316,11 @@ def report() -> str:
     for index, item in enumerate(ordered, start=1):
         lines.append(f"有序列表 {index}: {len(item['items'])} 项，编号 1–{len(item['items'])}")
     lines.append("非 OpenAI 官方内容: 有" if "非 OpenAI 官方内容" in html else "非 OpenAI 官方内容: 无")
-    lines.append("最后更新：2026-11-19" if "最后更新：2026-11-19" in raw else "最后更新日期不符")
+    lines.append(
+        "最后更新：2026-11-19（修订日期）"
+        if "最后更新：2026-11-19（修订日期）" in raw
+        else "最后更新日期不符"
+    )
     return "\n".join(lines)
 
 
