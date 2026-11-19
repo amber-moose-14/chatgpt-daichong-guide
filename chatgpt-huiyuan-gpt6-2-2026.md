@@ -122,7 +122,7 @@ ChatGPT 现在至少要分清三种用法，帮助中心的划分是：
 
 「工作」和 Codex **共用**套餐内含用量。能做多少事，取决于模型、任务内容和设置，**不是固定条数的对话次数**。剩余用量和重置时间，以 ChatGPT「设置 → 用量」显示为准。
 
-有的套餐同时有 5 小时窗口和每周窗口，两个窗口都要有剩余才能继续。5 小时窗口从上一窗口结束后的第一条「工作」或 Codex 消息开始算，有可能不到 5 小时就用完。**Pro 100、Pro 200 和 Pro 500 目前在「工作」和 Codex 没有 5 小时限额**，但仍有套餐内含用量，以「设置 → 用量」为准。
+用量窗口和限制可能因套餐及产品变化；剩余量与重置时间以「设置 → 用量」和英文帮助中心为准。
 
 倍率只说明扣用量的速度，不保证更快，也不保证同样的任务一定少花次数。对 GPT-6.2 的极速，Pro 200 和 Pro 500 的内含用量按标准模式的 6 倍扣；用完后再走已购买的额度，促销期到 2027 年 2 月 28 日按 3 倍计。帮助中心在其他 Pro 说明里也提醒过：用量变多，并不等于能完成的任务数正好翻倍。任务大小、推理档位、是否用工具，都会让实际消耗不一样。
 
@@ -141,7 +141,7 @@ ChatGPT 现在至少要分清三种用法，帮助中心的划分是：
 - **需要极速**：Plus 和 Pro 100 即使购买额度也不能开极速。Pro 200 目前是 GPT-6.2 Sol 极速（帮助中心写明在 Codex），不是 Astra 极速。两个 6.2 模型的极速都要用，才需要看到 Pro 500 的说明。升档前先看「设置 → 我的套餐（My Plan）」和官方定价页，费用、生效时间和是否补差价以当时页面为准。
 - **只是普通聊天和轻量写作**：现有 Plus 已经在本次名单里，不必只为「有没有 6.2」立刻升到 Pro。
 
-没有境外信用卡、想用支付宝或微信开通或升级 chatgpt 会员时，可以把套餐开到你自己的账号上，再在「工作」或 Codex 里查看模型选择器。需要走人民币开通的，可以打开 [GPT20X 的 Plus 开通页](https://gpt20x.com/chatgpt-plus) 了解 Plus 怎么用支付宝付款；Pro 档位以你下单时的套餐说明为准。GPT20X（gpt20x.com）只是国内付款的选项之一，开通后同样要等官方滚动到达，不会额外「加塞」出新模型。
+没有境外信用卡、想用支付宝或微信开通或升级 chatgpt 会员时，可以把套餐开到你自己的账号上，再在「工作」或 Codex 里查看模型选择器。Pro 档位以你下单时的套餐说明为准。GPT20X（gpt20x.com）只是国内付款的选项之一，开通后同样要等官方滚动到达，不会额外「加塞」出新模型。
 
 不要为了「刷新权限」先取消再订阅。帮助中心对 Pro 200 额度调整的说明是：订阅仍有效就不必取消；预约取消也不会立刻停用，只是到账期结束才失效。找模型、更新应用和等待滚动，比反复下单更有效。
 
@@ -187,17 +187,18 @@ ChatGPT 对账号使用地区有要求，开通前建议先看一下 OpenAI 官�
 ## 10. 官方来源
 
 - [OpenAI 公告：介绍 GPT-6.2 Astra 和 Sol（Introducing GPT-6.2 Astra and Sol）](https://openai.com/index/introducing-gpt-6-2-astra-sol/)（2026-11-17：在「工作」和 Codex 中向 Plus、Pro、Enterprise、Edu 开放，Pro 500 两个模型可用极速，Pro 200 首次从 GPT-6.2 Sol 开始提供极速，并给出 API 标价）
-- [OpenAI 官方 X 说明](https://x.com/OpenAI/status/2122750135608528984)（2026-11-17 17:54 UTC，表述与公告一致）
 - [OpenAI 帮助中心：ChatGPT 工作和 Codex（ChatGPT Work and Codex）](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)（2026-11-18 核对：滚动开放范围、不加入普通聊天、桌面应用和 CLI 更新、极速分档与倍率、促销截止 2027-02-28）
-- [OpenAI 帮助中心：在「工作」和 Codex 中管理 GPT-6 Astra 的用量（Managing usage with GPT-6 Astra in Work and Codex）](https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex)（共享用量、5 小时和每周窗口、Pro 无 5 小时限额、设置 → 用量）
-- [OpenAI 帮助中心：ChatGPT 中的 GPT-6 和其他模型（GPT-6 and other models in ChatGPT）](https://help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt)（本次滚动不加入普通聊天；普通聊天中的 GPT-6 由 GPT-6 Sol 驱动）
-- [OpenAI 帮助中心：关于 ChatGPT Pro 档位（About ChatGPT Pro tiers）](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)（Pro 100 / 200 / 500 月费，Pro 按月计费、无年付）
-- [OpenAI 帮助中心：什么是 ChatGPT Plus？（What is ChatGPT Plus?）](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)（Plus 每月 20 美元、按月计费）
-- [OpenAI 帮助中心：什么是 ChatGPT Go？（What is ChatGPT Go?）](https://help.openai.com/en/articles/11989085-what-is-chatgpt-go)（Go 标价以定价页为准；免费版和 Go 日常文本对话为不限次数，仍受防滥用限制）
-- [ChatGPT 定价页](https://chatgpt.com/pricing)
 
 > 非 OpenAI 官方内容。模型开放范围、极速规则和用量窗口仍在滚动调整，请以 OpenAI 公告、帮助中心和你账号里实际显示的选项为准。
 
+相关教程：
+
+- [chatgpt会员怎么选：Go / Plus / Pro 对照](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-huiyuan-zenme-xuan-2026.html)
+- [ChatGPT Plus 充值怎么选](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-plus-chongzhi-yuefu-2026.html)
+- [ChatGPT Pro 充值前必读](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-pro-chongzhi-edu-guize-2026.html)
+- [Codex 代充前必读](https://amber-moose-14.github.io/chatgpt-daichong-guide/codex-daichong-yongliang-kaitong-2026.html)
+- [chatgpt会员额度12月会和Codex共享吗](https://amber-moose-14.github.io/chatgpt-daichong-guide/chatgpt-huiyuan-codex-gongxiang-2026.html)
+
 ---
 
-*最后更新：2026-11-18*　｜　[返回教程首页](README.md)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理
+*最后更新：2026-11-19（修订日期）*　｜　[返回教程首页](README.md)　｜　本文由 [GPT20X](https://gpt20x.com/) 整理
