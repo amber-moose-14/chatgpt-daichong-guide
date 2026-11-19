@@ -122,7 +122,7 @@ ChatGPT 现在至少要分清三种用法，帮助中心的划分是：
 
 「工作」和 Codex **共用**套餐内含用量。能做多少事，取决于模型、任务内容和设置，**不是固定条数的对话次数**。剩余用量和重置时间，以 ChatGPT「设置 → 用量」显示为准。
 
-用量窗口和限制可能因套餐及产品变化；剩余量与重置时间以「设置 → 用量」和英文帮助中心为准。
+Pro 100、Pro 200 和 Pro 500 在「工作」和 Codex 目前没有 5 小时限额，但仍有套餐内含用量和每周窗口，以英文帮助中心为准；Plus 仍有 5 小时窗口（2026-11-19 核对）。「目前」不代表无限使用。剩余量与重置时间以「设置 → 用量」为准。
 
 倍率只说明扣用量的速度，不保证更快，也不保证同样的任务一定少花次数。对 GPT-6.2 的极速，Pro 200 和 Pro 500 的内含用量按标准模式的 6 倍扣；用完后再走已购买的额度，促销期到 2027 年 2 月 28 日按 3 倍计。帮助中心在其他 Pro 说明里也提醒过：用量变多，并不等于能完成的任务数正好翻倍。任务大小、推理档位、是否用工具，都会让实际消耗不一样。
 
@@ -188,6 +188,7 @@ ChatGPT 对账号使用地区有要求，开通前建议先看一下 OpenAI 官�
 
 - [OpenAI 公告：介绍 GPT-6.2 Astra 和 Sol（Introducing GPT-6.2 Astra and Sol）](https://openai.com/index/introducing-gpt-6-2-astra-sol/)（2026-11-17：在「工作」和 Codex 中向 Plus、Pro、Enterprise、Edu 开放，Pro 500 两个模型可用极速，Pro 200 首次从 GPT-6.2 Sol 开始提供极速，并给出 API 标价）
 - [OpenAI 帮助中心：ChatGPT 工作和 Codex（ChatGPT Work and Codex）](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)（2026-11-18 核对：滚动开放范围、不加入普通聊天、桌面应用和 CLI 更新、极速分档与倍率、促销截止 2027-02-28）
+- [OpenAI 帮助中心：在「工作」和 Codex 中管理 GPT-6 Astra 的用量（Managing usage with GPT-6 Astra in Work and Codex）](https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex)（2026-11-19 核对：Pro 100、Pro 200 和 Pro 500 目前在「工作」和 Codex 没有 5 小时限额，但仍有套餐内含用量和每周窗口；Plus 仍有 5 小时窗口。不代表无限使用。对应第 6 节）
 
 > 非 OpenAI 官方内容。模型开放范围、极速规则和用量窗口仍在滚动调整，请以 OpenAI 公告、帮助中心和你账号里实际显示的选项为准。
 

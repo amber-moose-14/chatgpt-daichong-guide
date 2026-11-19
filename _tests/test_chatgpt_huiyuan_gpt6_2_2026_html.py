@@ -36,11 +36,11 @@ MAIN_SITE_LINKS = (
 OFFICIAL_SOURCES = (
     "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex",
+    "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
 )
 
 REMOVED_SOURCE_MARKERS = (
     "x.com/OpenAI/status/2122750135608528984",
-    "help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
     "help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt",
     "help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
     "help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
@@ -49,20 +49,19 @@ REMOVED_SOURCE_MARKERS = (
     "https://gpt20x.com/chatgpt-plus",
 )
 
+LIMIT_SENTENCE = (
+    "Pro 100、Pro 200 和 Pro 500 在「工作」和 Codex 目前没有 5 小时限额，"
+    "但仍有套餐内含用量和每周窗口，以英文帮助中心为准；Plus 仍有 5 小时窗口"
+    "（2026-11-19 核对）。「目前」不代表无限使用。剩余量与重置时间以「设置 → 用量」为准。"
+)
+
 FORBIDDEN_PHRASES = (
-    "没有 5 小时限额",
-    "没有5小时限额",
-    "没有 5小时限额",
-    "无 5 小时限额",
-    "无5小时限额",
-    "无 5小时限额",
-    "Pro 无 5 小时",
-    "Pro无5小时",
-    "目前没有 5 小时",
-    "目前没有5小时",
+    "Plus 和 Pro 在「工作」和 Codex 都有 5 小时窗口",
+    "都有每周限制",
+    "用量窗口和限制可能因套餐及产品变化",
     "不设 5 小时",
     "不设5小时",
-    "没有五小时限额",
+    "Pro无5小时",
 )
 
 RELATED_TUTORIALS = (
@@ -207,7 +206,7 @@ class GPT62ArticleHTMLTest(unittest.TestCase):
         self.assertNotIn("https://gpt20x.com/chatgpt-plus", self.raw)
         self.assertNotIn("https://gpt20x.com/chatgpt-plus", self.html)
 
-    def test_official_sources_are_exactly_two(self) -> None:
+    def test_official_sources_are_three(self) -> None:
         start = self.html.find("<h2>10. 官方来源</h2>")
         end = self.html.find("相关教程", start)
         self.assertGreater(start, -1)
@@ -216,12 +215,20 @@ class GPT62ArticleHTMLTest(unittest.TestCase):
         parser = ArticleHTMLParser()
         parser.feed(section)
         hrefs = [normalize_href(href) for href, _text in parser.anchors]
+        self.assertEqual(len(hrefs), 3)
         self.assertEqual(hrefs, [normalize_href(url) for url in OFFICIAL_SOURCES])
         source_lists = [item for item in parser.lists if item["type"] == "ul"]
         self.assertEqual(len(source_lists), 1, self.html[start:end])
-        self.assertEqual(len(source_lists[0]["items"]), 2)
+        self.assertEqual(len(source_lists[0]["items"]), 3)
         self.assertIn("在「工作」和 Codex 中向 Plus、Pro、Enterprise、Edu 开放", source_lists[0]["items"][0])
         self.assertIn("2026-11-18 核对", source_lists[0]["items"][1])
+        usage = source_lists[0]["items"][2]
+        self.assertIn("2026-11-19 核对", usage)
+        self.assertIn("目前在「工作」和 Codex 没有 5 小时限额", usage)
+        self.assertIn("每周窗口", usage)
+        self.assertIn("Plus 仍有 5 小时窗口", usage)
+        self.assertIn("不代表无限使用", usage)
+        self.assertIn("对应第 6 节", usage)
         self.assertNotIn("Pro 无 5 小时", section)
         for marker in REMOVED_SOURCE_MARKERS:
             self.assertNotIn(marker, self.raw)
@@ -238,20 +245,26 @@ class GPT62ArticleHTMLTest(unittest.TestCase):
         self.assertEqual(related, [normalize_href(url) for url in RELATED_TUTORIALS])
         self.assertNotIn("chatgpt-huiyuan-gpt6-2-2026.html", " ".join(related))
 
-    def test_removed_five_hour_exception_and_current_wording(self) -> None:
+    def test_approved_limit_wording_and_check_dates(self) -> None:
         combined = self.raw + "\n" + self.html
         for phrase in FORBIDDEN_PHRASES:
             self.assertNotIn(phrase, combined)
-        self.assertIn(
-            "用量窗口和限制可能因套餐及产品变化；剩余量与重置时间以「设置 → 用量」和英文帮助中心为准。",
-            self.raw,
-        )
-        self.assertNotIn("Plus 和 Pro 在「工作」和 Codex 都有 5 小时窗口", self.raw)
-        self.assertNotIn("都有每周限制", self.raw)
+        self.assertIn(LIMIT_SENTENCE, self.raw)
+        self.assertIn("目前没有 5 小时限额", self.raw)
+        self.assertIn("不代表无限使用", self.raw)
+        self.assertIn("Plus 仍有 5 小时窗口", self.raw)
+        self.assertIn("每周窗口", self.raw)
+        self.assertEqual(self.raw.count("不代表无限使用"), 2)
+        self.assertEqual(self.raw.count("无限使用"), self.raw.count("不代表无限使用"))
         self.assertIn("非 OpenAI 官方内容", self.html)
         self.assertIn("最后更新：2026-11-19（修订日期）", self.raw)
-        self.assertIn("2026-11-18 核对", self.raw)
-        self.assertNotIn("2026-11-19 核对", self.raw)
+        self.assertIn("英文页（2026-11-18 核对）", self.raw)
+        self.assertIn("2026-11-18 核对时尚未同步", self.raw)
+        self.assertIn("官方目前的说法（2026-11-18 核对）", self.raw)
+        self.assertIn("2026-11-18 仍在更新", self.raw)
+        self.assertIn("2026-11-18 核对中国页", self.raw)
+        self.assertIn("（2026-11-18 核对：滚动开放范围", self.raw)
+        self.assertIn("（2026-11-19 核对：Pro 100、Pro 200 和 Pro 500", self.raw)
         self.assertNotIn("最后更新：2026-11-18", self.raw)
         self.assertNotIn("我自己", self.raw)
         self.assertNotIn("亲测", self.raw)
