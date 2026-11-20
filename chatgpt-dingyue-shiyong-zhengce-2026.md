@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: usage-policy-page
 title: ChatGPT订阅使用政策11月20日起更新，普通用户要改什么｜GPT20X
 description: chatgpt订阅使用政策从11月20日起更新。本文按三篇官方原文整理生效日、四项更新，以及普通订阅要不要因此重新付款，GPT20X 非官方整理。
 ---
