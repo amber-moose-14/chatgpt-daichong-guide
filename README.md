@@ -51,6 +51,7 @@
 
 ## 在线工具
 
+- [ChatGPT订阅使用政策速查](https://huggingface.co/spaces/gpt20x/chatgpt-shiyong-zhengce) — 11月20日生效，对照普通用户与中间商条款
 - [chatgpt会员 GPT-6.2套餐对照](https://huggingface.co/spaces/gpt20x/chatgpt-xinwen) — 哪些套餐能在「工作」和 Codex 用新模型、极速怎么分档
 - [ChatGPT代充指南](https://huggingface.co/spaces/gpt20x/chatgpt-daichong) — 会员怎么选、国内代充开通与报错速查
 - [ChatGPT Pro怎么选](https://huggingface.co/spaces/gpt20x/chatgpt-pro) — Pro 100/200/500 档位选择器与避坑清单
