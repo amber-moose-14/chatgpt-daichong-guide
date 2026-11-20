@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-20 · [ChatGPT订阅使用政策11月20日起更新，普通用户要改什么](chatgpt-dingyue-shiyong-zhengce-2026.md)
 - 2026-11-19 · [chatgpt会员额度12月会和Codex共享吗？Plus、Pro、Business 在 ChatGPT 与 Codex 之间共享，即时聊天不计入](chatgpt-huiyuan-codex-gongxiang-2026.md)
 - 2026-11-18 · [chatgpt会员能用GPT-6.2吗？只在「工作」和 Codex 开放、不会加入普通聊天，附极速分档对照](chatgpt-huiyuan-gpt6-2-2026.md)
 - 2026-11-17 · [ChatGPT充值发票怎么开？网页订阅、App Store、Google Play、第三方开通四种渠道找票与报销清单](chatgpt-chongzhi-fapiao-2026.md)
@@ -34,6 +35,9 @@
 - [ChatGPT礼品卡怎么用？官方礼品卡、苹果礼品卡、赠送额度三种卡一次分清](chatgpt-lipinka-2026.md)
 - [ChatGPT充值能用Wallet吗？ChatGPT Wallet、订阅付款、余额、Credits 一文分清](chatgpt-chongzhi-wallet-qianbao-2026.md)
 - [ChatGPT 代充用支付宝 / 微信怎么付：官方为什么不收、付款 5 步、付款后没到账与退款怎么办](chatgpt-daichong-zhifubao-weixin-2026.md)
+
+### 📋 使用政策
+- [ChatGPT订阅使用政策11月20日起更新，普通用户要改什么](chatgpt-dingyue-shiyong-zhengce-2026.md)
 
 ### ✅ 开通后
 - [chatgpt会员能用GPT-6.2吗？Work 和 Codex 套餐对照、极速规则和找不到模型时怎么办](chatgpt-huiyuan-gpt6-2-2026.md)
