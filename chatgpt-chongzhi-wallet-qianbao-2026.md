@@ -8,7 +8,7 @@ description: ChatGPT充值和 11 月 13 日上线的 ChatGPT Wallet 是两回事
 
 ![ChatGPT 充值与 ChatGPT Wallet 区分封面](images/chatgpt-chongzhi-wallet-qianbao-2026-cover.png)
 
-ChatGPT充值（开通 Go / Plus / Pro 会员）和 OpenAI 在 2026 年 11 月 13 日推出的 **ChatGPT Wallet** 不是一回事。Wallet 是给 Pro 用户的 dot 智能体「替你网购结账」用的付款工具，买的是商家的衣服、酒店这类商品，**不是用来付 ChatGPT 会员费的**。OpenAI 帮助中心原话是：存进 Wallet 的卡，和你的 ChatGPT 订阅付款方式、礼品卡 / 预付余额是分开的。下面把 Wallet、订阅付款方式、ChatGPT 余额、Credits 这四样一次分清。（2026-11-14 核对，来源见文末）若要用人民币把套餐开到自己的账号上，也可以先了解 [ChatGPT充值](https://gpt20x.com/) 这类开通方式。
+ChatGPT充值（开通 Go / Plus / Pro 会员）和 OpenAI 在 2026 年 11 月 13 日推出的 **ChatGPT Wallet** 不是一回事。Wallet 是给 Pro 用户的 dot 智能体「替你网购结账」用的付款工具，买的是商家的衣服、酒店这类商品，**不是用来付 ChatGPT 会员费的**。OpenAI 帮助中心原话是：存进 Wallet 的卡，和你的 ChatGPT 订阅付款方式、礼品卡 / 预付余额是分开的。下面把 Wallet、订阅付款方式、ChatGPT 余额、Credits 这四样一次分清。（2026-11-14 核对，来源见文末）
 
 ---
 

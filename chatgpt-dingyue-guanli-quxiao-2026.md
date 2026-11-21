@@ -8,7 +8,7 @@ description: ChatGPT订阅管理一篇讲清：网页 / Apple / Google Play 三�
 
 ![ChatGPT 订阅怎么管封面](images/chatgpt-dingyue-guanli-quxiao-2026-cover.png)
 
-**简短回答：** 「**ChatGPT 订阅**」最容易出问题的地方不是选哪个套餐，而是**订阅归哪个平台管**。官方规则很简单：在 chatgpt.com 买的，就在 ChatGPT 网页的 **Settings → Billing** 里管；在 iPhone 上买的归 **Apple** 管；在安卓 Google Play 买的归 **Google** 管。取消要在**当初付款的那个平台**操作，**至少提前 24 小时**；**卸载 App 不会退订**，**删 ChatGPT 账号也不一定退订**（Apple 订阅就不会）。在两个平台各买一次，就会被**扣两份钱**。以上均以 [OpenAI 帮助中心：Canceling your ChatGPT subscription](https://help.openai.com/en/articles/7232927-canceling-your-chatgpt-subscription) 和 [How do I avoid being charged twice](https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web) 为准（2026-11-10 核对）。若还没开通、想先了解用人民币怎么开订阅，也可以看 [GPT代充](https://gpt20x.com/) 的说明。
+**简短回答：** 「**ChatGPT 订阅**」最容易出问题的地方不是选哪个套餐，而是**订阅归哪个平台管**。官方规则很简单：在 chatgpt.com 买的，就在 ChatGPT 网页的 **Settings → Billing** 里管；在 iPhone 上买的归 **Apple** 管；在安卓 Google Play 买的归 **Google** 管。取消要在**当初付款的那个平台**操作，**至少提前 24 小时**；**卸载 App 不会退订**，**删 ChatGPT 账号也不一定退订**（Apple 订阅就不会）。在两个平台各买一次，就会被**扣两份钱**。以上均以 [OpenAI 帮助中心：Canceling your ChatGPT subscription](https://help.openai.com/en/articles/7232927-canceling-your-chatgpt-subscription) 和 [How do I avoid being charged twice](https://help.openai.com/en/articles/20001043-how-do-i-avoid-being-charged-twice-if-i-subscribe-to-chatgpt-on-ios-android-and-the-web) 为准（2026-11-10 核对）。
 
 ---
 
