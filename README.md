@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-22 · [ChatGPT充值后退款怎么申请？官方规则一次看清](chatgpt-chongzhi-tuikuan-2026.md)
 - 2026-11-21 · [chatgpt会员能用Space吗？11月20日起向满18岁Plus用户推送](chatgpt-huiyuan-space-2026.md)
 - 2026-11-20 · [ChatGPT订阅使用政策11月20日起更新，普通用户要改什么](chatgpt-dingyue-shiyong-zhengce-2026.md)
 - 2026-11-19 · [chatgpt会员额度12月会和Codex共享吗？Plus、Pro、Business 在 ChatGPT 与 Codex 之间共享，即时聊天不计入](chatgpt-huiyuan-codex-gongxiang-2026.md)
@@ -44,6 +45,7 @@
 - [chatgpt会员能用Space吗？11月20日起向满18岁Plus用户推送](chatgpt-huiyuan-space-2026.md)
 
 ### ✅ 开通后
+- [ChatGPT充值后退款怎么申请？官方规则一次看清](chatgpt-chongzhi-tuikuan-2026.md)
 - [chatgpt会员能用GPT-6.2吗？Work 和 Codex 套餐对照、极速规则和找不到模型时怎么办](chatgpt-huiyuan-gpt6-2-2026.md)
 - [ChatGPT充值发票怎么开？网页订阅、App Store、Google Play、第三方开通四种渠道找票与报销清单](chatgpt-chongzhi-fapiao-2026.md)
 - [ChatGPT升级Pro怎么算：Go / Plus / Pro 换档、降级、退不退差价全流程](chatgpt-shengji-pro-huandang-2026.md)
@@ -55,6 +57,7 @@
 
 ## 在线工具
 
+- [ChatGPT充值退款速查](https://huggingface.co/spaces/gpt20x/chatgpt-chongzhi-tuikuan) — 按购买渠道和地区对照官方申请路径，判断该找谁
 - [chatgpt会员 Space套餐对照速查](https://huggingface.co/spaces/gpt20x/chatgpt-plus-space) — 按套餐对照谁能打开分享页、侧边栏找不到怎么办
 - [ChatGPT订阅使用政策速查](https://huggingface.co/spaces/gpt20x/chatgpt-shiyong-zhengce) — 11月20日生效，对照普通用户与中间商条款
 - [chatgpt会员 GPT-6.2套餐对照](https://huggingface.co/spaces/gpt20x/chatgpt-xinwen) — 哪些套餐能在「工作」和 Codex 用新模型、极速怎么分档
