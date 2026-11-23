@@ -59,6 +59,7 @@
 
 ## 在线工具
 
+- [ChatGPT Plus充值后 Credits 与重置对照速查](https://huggingface.co/spaces/gpt20x/chatgpt-plus-credits) — 三道判断题对照该买 Credits、等重置还是先开通套餐
 - [ChatGPT充值退款速查](https://huggingface.co/spaces/gpt20x/chatgpt-chongzhi-tuikuan) — 按购买渠道和地区对照官方申请路径，判断该找谁
 - [chatgpt会员 Space套餐对照速查](https://huggingface.co/spaces/gpt20x/chatgpt-plus-space) — 按套餐对照谁能打开分享页、侧边栏找不到怎么办
 - [ChatGPT订阅使用政策速查](https://huggingface.co/spaces/gpt20x/chatgpt-shiyong-zhengce) — 11月20日生效，对照普通用户与中间商条款
