@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-23 · [ChatGPT Plus充值后怎么买Credits？个人套餐额度用完再看](chatgpt-plus-credits-jifen-2026.md)
 - 2026-11-22 · [ChatGPT充值后退款怎么申请？官方规则一次看清](chatgpt-chongzhi-tuikuan-2026.md)
 - 2026-11-21 · [chatgpt会员能用Space吗？11月20日起向满18岁Plus用户推送](chatgpt-huiyuan-space-2026.md)
 - 2026-11-20 · [ChatGPT订阅使用政策11月20日起更新，普通用户要改什么](chatgpt-dingyue-shiyong-zhengce-2026.md)
@@ -45,6 +46,7 @@
 - [chatgpt会员能用Space吗？11月20日起向满18岁Plus用户推送](chatgpt-huiyuan-space-2026.md)
 
 ### ✅ 开通后
+- [ChatGPT Plus充值后怎么买Credits？个人套餐额度用完再看](chatgpt-plus-credits-jifen-2026.md)
 - [ChatGPT充值后退款怎么申请？官方规则一次看清](chatgpt-chongzhi-tuikuan-2026.md)
 - [chatgpt会员能用GPT-6.2吗？Work 和 Codex 套餐对照、极速规则和找不到模型时怎么办](chatgpt-huiyuan-gpt6-2-2026.md)
 - [ChatGPT充值发票怎么开？网页订阅、App Store、Google Play、第三方开通四种渠道找票与报销清单](chatgpt-chongzhi-fapiao-2026.md)
