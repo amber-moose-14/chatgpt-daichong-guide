@@ -63,6 +63,7 @@
 
 ## 在线工具
 
+- [chatgpt订阅用量分层判断](https://huggingface.co/spaces/gpt20x/chatgpt-dingyue-yongliang) — 三步判断卡在五小时窗口还是每周额度，再决定等待、重置或查看 Credits
 - [chatgpt会员聊天页 GPT-6.2 到站对照](https://huggingface.co/spaces/gpt20x/chatgpt-gpt62-liaotian) — 三道题判断聊天里还没有 GPT-6.2 时该先看什么
 - [ChatGPT Plus充值后 Credits 与重置对照速查](https://huggingface.co/spaces/gpt20x/chatgpt-plus-credits) — 三道判断题对照该买 Credits、等重置还是先开通套餐
 - [ChatGPT充值退款速查](https://huggingface.co/spaces/gpt20x/chatgpt-chongzhi-tuikuan) — 按购买渠道和地区对照官方申请路径，判断该找谁
