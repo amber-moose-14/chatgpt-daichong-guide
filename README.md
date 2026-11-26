@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-26 · [chatgpt充值提示请选择你的国家地区？账单地址怎么填](chatgpt-chongzhi-zhangdan-dizhi-2026.md)
 - 2026-11-25 · [chatgpt订阅用量在哪看？设置页对照窗口和重置](chatgpt-dingyue-yongliang-chakan-2026.md)
 - 2026-11-24 · [chatgpt会员聊天页已开始推送GPT-6.2](chatgpt-huiyuan-gpt6-2-liaotian-2026.md)
 - 2026-11-23 · [ChatGPT Plus充值后怎么买Credits？个人套餐额度用完再看](chatgpt-plus-credits-jifen-2026.md)
@@ -59,6 +60,7 @@
 - [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
 
 ### 🛠️ 自己付款遇到问题
+- [chatgpt充值提示请选择你的国家地区？账单地址怎么填](chatgpt-chongzhi-zhangdan-dizhi-2026.md)
 - [ChatGPT 提示 Your card was declined 怎么办？](card-declined-fix.md)
 
 ## 在线工具
