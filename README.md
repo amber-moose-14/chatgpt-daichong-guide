@@ -8,6 +8,7 @@
 
 ## 🆕 最近更新
 
+- 2026-11-28 · [ChatGPT Plus充值走Google Play会重复扣费吗？怎么查、怎么取消](chatgpt-plus-chongzhi-google-play-2026.md)
 - 2026-11-26 · [chatgpt充值提示请选择你的国家地区？账单地址怎么填](chatgpt-chongzhi-zhangdan-dizhi-2026.md)
 - 2026-11-25 · [chatgpt订阅用量在哪看？设置页对照窗口和重置](chatgpt-dingyue-yongliang-chakan-2026.md)
 - 2026-11-24 · [chatgpt会员聊天页已开始推送GPT-6.2](chatgpt-huiyuan-gpt6-2-liaotian-2026.md)
@@ -60,11 +61,13 @@
 - [GPT 代充卡密怎么兑换？从付款到会员生效的完整流程 + 兑换失败 8 种情况处理](gpt-daichong-kami-duihuan-2026.md)
 
 ### 🛠️ 自己付款遇到问题
+- [ChatGPT Plus充值走Google Play会重复扣费吗？怎么查、怎么取消](chatgpt-plus-chongzhi-google-play-2026.md)
 - [chatgpt充值提示请选择你的国家地区？账单地址怎么填](chatgpt-chongzhi-zhangdan-dizhi-2026.md)
 - [ChatGPT 提示 Your card was declined 怎么办？](card-declined-fix.md)
 
 ## 在线工具
 
+- [ChatGPT Plus充值走Google Play判断速查](https://huggingface.co/spaces/gpt20x/chatgpt-plus-google-play) — 三道题判断该查商店订阅、登录原账号，还是先取消再换平台
 - [chatgpt充值国家地区与账单地址对照](https://huggingface.co/spaces/gpt20x/chatgpt-zhangdan-dizhi) — 三步判断国家选项、账单地址和结账币种对不上时该先看什么
 - [chatgpt订阅用量分层判断](https://huggingface.co/spaces/gpt20x/chatgpt-dingyue-yongliang) — 三步判断卡在五小时窗口还是每周额度，再决定等待、重置或查看 Credits
 - [chatgpt会员聊天页 GPT-6.2 到站对照](https://huggingface.co/spaces/gpt20x/chatgpt-gpt62-liaotian) — 三道题判断聊天里还没有 GPT-6.2 时该先看什么
